@@ -1,0 +1,400 @@
+car_full_nm,car_0_60_time_seconds
+Ariel Atom V8 500 - [2008],2.3
+Bugatti Veyron 16.4 Grand Sport Vitesse - [2012],2.5
+Bugatti Veyron 8.0 litre W16 Super Sport - [2010],2.5
+Caparo T1 2.4 V8 - [2006],2.5
+Caparo T1 3.5l V8 - [2007],2.5
+Hennessey Venom GT - [2010],2.5
+SSC Tuatara 6.9L V8 Twin Turbo - [2011],2.5
+Ultima GTR 720 - [2000],2.6
+Bugatti Veyron 8.0 litre W16 - [2005],2.7
+Ascari A10 5.0 V8 - [2006],2.8
+BAC Mono 280bhp - [2011],2.8
+Caterham 7 620 R 2.0 L Supercharged - [2013],2.8
+Koenigsegg Agera S 5.0 V8 Hundra - [2013],2.8
+Lamborghini Veneno 6.5 V12 - [2013],2.8
+Porsche 918 Spyder 4.6 V8 - [2013],2.8
+SSC Ultimate Aero TT - [2008],2.8
+TVR Cerbera Speed 12 - [2000],2.8
+Ariel Atom Mugen - [2012],2.9
+Caterham 7 RST-V8 Levante - [2008],2.9
+Caterham 7 Superlight R500 - [2009],2.9
+Ferrari F50 GT1 4.7l V12 - [1996],2.9
+Gumpert Apollo Enraged 4.2 V8 Turbo - [2012],2.9
+Koenigsegg Agera 5L V8 - [2011],2.9
+Koenigsegg Agera R 5.0 V8 - [2012],2.9
+Koenigsegg CCX R Special Edition 4.8 V8 S - [2008],2.9
+Lamborghini Aventador LP700-4 - [2011],2.9
+Lamborghini Veneno Roadster 6.5 V12 - [2013],2.9
+McLaren P1 3.8 V8 Hybrid - [2013],2.9
+Nissan Skyline GTR R35 - [2012],2.9
+Porsche 9FF GT9R - [2009],2.9
+SSC Aero SC 8T 6.3L - [2005],2.9
+TVR Speed 12 7.7L V12 - [1997],2.9
+Ferrari 458 Speciale 4.5 V8 - [2013],3.0
+Ferrari F12 Berlinetta 6.3L V12 - [2012],3.0
+Ferrari LaFerrari 6.3L V12 - [2013],3.0
+Gumpert Apollo 4.2L V8 Twin Turbo - [2005],3.0
+Gumpert Apollo S 4.2 V8 Twin Turbo - [2009],3.0
+Lamborghini Aventador LP700-4 Roadster - [2013],3.0
+Lamborghini Aventador LP720-4 50th Anniversario - [2013],3.0
+McLaren 650S 3.8 V8 Twin Turbo - [2014],3.0
+McLaren MP4-12C 3.8 V8 Twin Turbo Spider - [2012],3.0
+McLaren MP4-12C 3.8L V8 Twin Turbo - [2012],3.0
+Porsche 9FF GT9 - [2008],3.0
+Ford GT 90 6.0L V12 - [1995],3.1
+Koenigsegg Agera 4.7L V8 - [2010],3.1
+Lamborghini Huracan LP 610-4 - [2014],3.1
+McLaren 650S Spider 3.8 V8 Twin Turbo - [2014],3.1
+Porsche 911 Turbo S 991 - [2013],3.1
+Porsche 911 Turbo S 997 - [2010],3.1
+Ferrari SA Aperta Pininfarina 6.0 V12 - [2011],3.2
+Koenigsegg CCX 4.7 V8 Supercharged - [2006],3.2
+Koenigsegg CCX 4.7 V8 Supercharged - [2006],3.2
+Lamborghini Gallardo LP560-4 - [2008],3.2
+McLaren F1 6.0 V12 - [1994],3.2
+Westfield Sport 2000S - [2004],3.2
+Ariel Atom 300 Supercharged - [1999],3.3
+Caterham 7 485 2.0L - [2013],3.3
+Ferrari 458 Spider 4.5 V8 - [2011],3.3
+Ferrari 599 GTO - [2010],3.3
+Lamborghini Gallardo LP570-4 Super Trofeo Stradale - [2011],3.3
+Lamborghini Reventon Roadster 6.5L V12 - [2009],3.3
+McLaren MP4-12C 3.8L V8 Twin Turbo - [2011],3.3
+Pagani Zonda Cinque 7.3L - [2008],3.3
+Saleen S7 7.0 V8 - [2000],3.3
+Ultima GTR 5.7 - [2000],3.3
+Bugatti EB110 SuperSport - [1992],3.4
+Caterham 7 Superlight R500 - [2000],3.4
+Chevrolet Corvette C6 ZR1 - [2007],3.4
+Dodge Viper SRT 8.3 V10 - [2013],3.4
+Ferrari 458 4.5 V8 - [2009],3.4
+Lamborghini Diablo GTR 6.0L V12 - [2001],3.4
+Lamborghini Reventon 6.5 V12 - [2007],3.4
+Mercedes SLR Class McLaren Stirling Moss - [2009],3.4
+Mitsubishi Lancer Evo VIII MR FQ 400 - [2004],3.4
+Nissan Skyline GT-R Spec V - [2009],3.4
+Porsche 911 GT2 997 - [2007],3.4
+Porsche 911 Turbo 991 - [2013],3.4
+Audi R8 5.2 V10 Spyder - [2012],3.5
+Audi R8 GT 5.2L V10 - [2011],3.5
+Audi R8 Plus S-Tronic 5.2 V10 - [2012],3.5
+Caterham Super 7 JPE - [1992],3.5
+Ferrari 430 Scuderia - [2007],3.5
+Ferrari 599 GTB Fiorano - [2006],3.5
+Ferrari California T 3.9 V8 Turbo - [2014],3.5
+Ferrari Enzo 6.0 V12 - [2002],3.5
+Ferrari FF 6.3L V12 - [2011],3.5
+Lamborghini Murcielago LP640 6.5 V12 - [2006],3.5
+Nissan Skyline R35 GTR - [2007],3.5
+Noble M400 3.0 V6 - [2004],3.5
+Noble M600 4.4L V8 - [2009],3.5
+Pagani Huayra 6.0L Twin turbo - [2013],3.5
+Porsche 911 GT2 RS 997 - [2010],3.5
+Porsche 911 GT3 3.8 991 - [2013],3.5
+Aston-Martin One77 7.3L V12 - [2011],3.6
+Audi R8 Plus 5.2 V10 - [2012],3.6
+BMW 3 Series M3 GTR E46 - [2001],3.6
+Fisker Tramonto 5.4 V8 Performance Plus - [2005],3.6
+Jaguar XJ 220 - [1991],3.6
+KTM X-Bow R 2.0 Turbo - [2011],3.6
+Lamborghini Murcielago 6.2 V12 - [2001],3.6
+Mercedes CLS Class 63 AMG 4Matic - [2013],3.6
+Mercedes SLR Class McLaren 722 Edition - [2006],3.6
+Mercedes SLR Class McLaren 722 S Roadster - [2008],3.6
+Mercedes SLS AMG Black Series 6.2 V8 - [2012],3.6
+Mitsubishi Lancer Evo X FQ 400 - [2009],3.6
+Pagani Zonda F - [2005],3.6
+Porsche 911 GT2 993 - [1995],3.6
+Porsche 911 GT2 996 - [2000],3.6
+Porsche 911 Turbo 997 - [2009],3.6
+Aston-Martin Vantage V12 S - [2013],3.7
+Audi A6 RS6 Avant 4.0 V8 Twin Turbo - [2012],3.7
+Audi R8 Spyder GT 5.2L V10 - [2011],3.7
+Chevrolet Corvette Z06 - [2006],3.7
+Ferrari F50 4.7 V12 - [1995],3.7
+Ford Mustang Shelby GT500 - [2012],3.7
+Lexus LFA Nurburgring - [2011],3.7
+Mercedes CLK GTR 6.9 V12 - [1998],3.7
+Mercedes SL Class 65 AMG V12 Black Series R230 - [2008],3.7
+Mercedes SLS AMG GT 6.2 V8 - [2012],3.7
+Mercedes SLS AMG Roadster GT - [2012],3.7
+Pagani Zonda C12 S 7.3 - [2002],3.7
+Porsche 959 Turbo - [1987],3.7
+Porsche Panamera 4.8 V8 Turbo S - [2011],3.7
+Subaru Impreza STI CS 400 - Cosworth - Hatch - [2010],3.7
+Subaru Impreza WRX STI R205 Spec C - Hatch - [2010],3.7
+Bentley Continental SuperSports 6.0 W12 - [2009],3.8
+Bentley Continental SuperSports Flying Star - [2010],3.8
+Caterham 7 Superlight R400 - [2006],3.8
+Chevrolet Corvette C6 ZR1 6.2 V8 - [2009],3.8
+Chevrolet Corvette Callaway C16 - [2007],3.8
+Dodge Viper SRT10 ACR - [2007],3.8
+Ferrari California 30 F1 4.3l V8 - [2012],3.8
+Ferrari F40 2.9 V8 - [1987],3.8
+Ford GT 5.4 V8 - [2003],3.8
+Koenigsegg CCR 4.7 V8 Supercharged - [2005],3.8
+Lamborghini Diablo 6.0 V12 - [2000],3.8
+Lamborghini Gallardo 5.0 V10 Superleggera - [2007],3.8
+Lamborghini Gallardo LP570-4 Spyder Performante Edizione - [2013],3.8
+Lotus 2-Eleven 1.8 Supercharged - [2007],3.8
+Lotus Evora GTE 3.5 V6 - [2012],3.8
+Maserati MC12 6.0 V12 - [2004],3.8
+Mercedes S Class 63 Coupe 4Matic - [2014],3.8
+Mercedes SLR Class McLaren - [2003],3.8
+Mercedes SLR Class McLaren Roadster - [2009],3.8
+Nissan R390 3.5L V8 - [1997],3.8
+Pagani Zonda Roadster - [2003],3.8
+Porsche 911 GT3 4.0 997 - [2011],3.8
+Radical SR3 1.5 16V - [2001],3.8
+Audi R8 5.2 FSI Quattro V10 - [2009],3.9
+Caterham 7 CSR 260 - [2005],3.9
+Caterham 7 Superlight R400 - [2003],3.9
+Ferrari California 4.3 V8 - [2008],3.9
+Ferrari F430 4.3 V8 - [2004],3.9
+Ford Mustang Boss 302 - [2010],3.9
+Jaguar XK R-S GT 5.0 V8 - [2013],3.9
+KTM X-Bow R 2.0 Turbo - [2013],3.9
+Lamborghini Diablo VT 6.0L V12 - [2000],3.9
+Lotus Exige 240 R - [2005],3.9
+Lotus Exige S 3.5 V6 - [2012],3.9
+Lotus Exige S 3.5 V6 Roadster - [2012],3.9
+Mercedes CLK DTM AMG 5.4 V8 - [2004],3.9
+Mercedes CLK DTM Cabriolet - [2006],3.9
+Mercedes SL Class 65 AMG V12 - [2012],3.9
+Mercedes SL Class 65 AMG V12 R230 - [2004],3.9
+Mercedes SLS 6.2 V8 AMG Coupe DCT-7 - [2009],3.9
+Mercedes SLS Electric Drive AMG - [2013],3.9
+Mitsubishi Lancer Evo IX FQ 360 - [2006],3.9
+Noble M12 GTO 2.6 V6 Turbo - [2001],3.9
+Noble M12 GTO 3R - [2003],3.9
+Porsche 911 Turbo 993 - [1995],3.9
+Porsche 911 Turbo 996 - [2000],3.9
+Porsche 911 Turbo S 993 - [1998],3.9
+Porsche Carrera GT - [2003],3.9
+TVR Cerbera 4.5 - [1997],3.9
+TVR Sagaris 4.0 - [2003],3.9
+TVR Tuscan S 4.0 - [2001],3.9
+Tesla Roadster Electric 248bhp - [2009],3.9
+Wiesmann GT MF5 - [2009],3.9
+AC Cobra 212 S/C - [2001],4.0
+Aston-Martin Vanquish 5.9 V12 - [2012],4.0
+Aston-Martin Vanquish 5.9 V12 RS - [2009],4.0
+Audi A8 S8 4.0 V8 Turbo - [2012],4.0
+Audi A8 S8 4.0 V8 Turbo - [2013],4.0
+Audi R8 Spyder 5.2L V10 - [2009],4.0
+Bentley Continental GT Speed - [2012],4.0
+Bentley Continental GT Speed 6.0 W12 - [2014],4.0
+Chevrolet Camaro ZL1 6.2L V8 - [2011],4.0
+Chevrolet Corvette 6.2 V8 2d - [2007],4.0
+Dodge Viper GTS - [1996],4.0
+Dodge Viper SRT-10 8.3 V10 - [2003],4.0
+Dodge Viper SRT-10 8.3 V10 - [2005],4.0
+Ferrari 360 Challenge Stradale - [2003],4.0
+Ford Mustang Shelby GT500 - [2006],4.0
+KTM X-Bow GT 2.0 Turbo - [2013],4.0
+Lamborghini Diablo SE 5.7 V12 - [1994],4.0
+Mercedes CLS Class 63 AMG Shooting Brake PP - [2012],4.0
+Porsche 911 GT2 996 - [2004],4.0
+Porsche 911 Turbo 997 - [2006],4.0
+Porsche Panamera Turbo 4.8 V8 - [2013],4.0
+TVR Cerbera 4.2 - [1996],4.0
+Alfa-Romeo Disco Volante 4.7 V8 - [2013],4.1
+Ascari KZ1 5.0 V8 - [2003],4.1
+Aston-Martin Vantage V12 Zagato - [2012],4.1
+Audi A7 RS7 Sportback Twin Turbo - [2013],4.1
+BMW 5 Series M5 Competition Pack F10 - [2013],4.1
+BMW 6 Series M6 4.4 V8 F13 - [2012],4.1
+BMW 6 Series M6 Gran Coupe 4.4 V8 - [2012],4.1
+Bentley Continental GT Speed Convertible 6.0 W12 - [2013],4.1
+Cadillac CTS -V 6.2 V8 Auto - [2009],4.1
+Ferrari F430 4.3 V8 Spider - [2005],4.1
+Ford Mustang GT 500 - [2010],4.1
+Lamborghini Gallardo LP550-2 Spyder - [2011],4.1
+Lotus Exige S 1.8 Supercharged - [2006],4.1
+Mercedes CLK 63 AMG Black Series - [2007],4.1
+Mercedes E Class 63 AMG - [2013],4.1
+Mercedes SL Class 63 AMG Performance Package - [2012],4.1
+Mercedes SL Class 65 AMG V12 R230 - [2008],4.1
+Porsche 911 Ruf CTR Yellow Bird - [1987],4.1
+Porsche 911 Turbo S 996 - [2004],4.1
+TVR Chimaera 5.0 - [1993],4.1
+TVR Chimaera 500 5.0L V8 - [2001],4.1
+TVR Griffith 4.3 - [1992],4.1
+TVR Griffith 500 - [1993],4.1
+Vauxhall-Opel VXR8 GTS 6.2 V8 - [2013],4.1
+AC Cobra 427 - [1966],4.2
+Alfa-Romeo 8C Competitzione - [2008],4.2
+Aston-Martin DBS V12 2d - [2007],4.2
+Audi A8 S8 4.0 V8 Turbo - [2011],4.2
+Audi R8 4.2 V8 S-Tronic FSI Quattro - [2012],4.2
+Audi R8 6.0 Quattro V12 TDI - [2009],4.2
+BMW 3 Series M3 F80 - [2013],4.2
+BMW 4 Series M4 - [2013],4.2
+BMW 6 Series M6 Cabriolet 4.4 V8 - [2012],4.2
+Dodge Challenger SRT-8 6.4 V8 392 - [2010],4.2
+Ferrari 575 M Fiorano - [2002],4.2
+Jaguar F Type 5.0L V8 S Cabriolet - [2012],4.2
+Jaguar XK R-S 5.0 V8 - [2011],4.2
+Lamborghini Gallardo 5.0 V10 Spyder - [2005],4.2
+Mercedes C Class 63 AMG Coupe Black Series - [2011],4.2
+Mercedes C Class 63 AMG Edition 507 - [2013],4.2
+Mercedes C Class 63 AMG Edition 507 Coupe - [2013],4.2
+Mercedes S Class 65 AMG - [2013],4.2
+Mercedes SL Class 63 AMG V8 - [2012],4.2
+Morgan Aero Coupe 4.8L V8 - [2011],4.2
+Morgan Aeromax 4.8 V8 - [2008],4.2
+Porsche 911 Carrera 4 S PDK 991 - [2012],4.2
+Porsche 911 Carrera S PDK 991 - [2011],4.2
+Porsche 911 GT3 RS 997 - [2006],4.2
+Porsche Panamera 4.8 V8 Turbo PDK - [2009],4.2
+TVR Tamora 3.6 - [2002],4.2
+Alfa-Romeo 8C Competitzione Spider - [2008],4.3
+Aston-Martin Vantage 600 - [1998],4.3
+Audi R8 4.2 FSI Quattro V8 - [2006],4.3
+Audi TT RS+ 2.5 Turbo - [2012],4.3
+BMW 3 Series M3 CRT E90 - [2011],4.3
+BMW 3 Series M3 E92 GTS - [2010],4.3
+BMW 5 Series 550i xDrive F10 - [2013],4.3
+BMW i8 Hybrid - [2013],4.3
+Bentley Continental GT Speed 2d Auto - [2007],4.3
+Bentley Continental V8 S - [2013],4.3
+Ferrari 360 Modena F1 - [1999],4.3
+Ferrari 550 Maranello - [1997],4.3
+Ferrari 612 Scaglietti F1 - [2004],4.3
+Lamborghini Gallardo 5.0 V10 - [2003],4.3
+Mercedes C Class 63 AMG Edition 507 Estate - [2013],4.3
+Mercedes CL Class 65 AMG Bi Turbo - [2003],4.3
+Mercedes CLS Class 63 AMG Shooting Brake - [2012],4.3
+Mercedes S Class 65 AMG - [2010],4.3
+Mitsubishi Lancer Evo IV RS - [1996],4.3
+Mitsubishi Lancer Evo VI Tommi Makinen - [2000],4.3
+Porsche 911 GT3 997 - [2007],4.3
+Porsche Cayenne 4.8 V8 Turbo S - [2013],4.3
+Porsche Panamera GTS 4.8 V8 - [2013],4.3
+Subaru Impreza WRX STI Type RA Spec C - Blobeye - [2003],4.3
+Alfa-Romeo 4C 1.8 Turbo - [2013],4.4
+Aston-Martin Vanquish 5.9 V12 - [2000],4.4
+Aston-Martin Vantage V12 Roadster - [2012],4.4
+Aston-Martin Vantage V8 SP10 - [2013],4.4
+Audi A6 RS6 Avant 5.0 V10 - [2007],4.4
+Audi A8 4.0 V8 TFSI Quattro - [2013],4.4
+Audi A8 6.3 W12 L - [2012],4.4
+Audi R8 Spyder 4.2 V8 FSI Quattro S-Tronic - [2012],4.4
+BMW 3 Series M3 Coupe Frozen Edition E92 - [2010],4.4
+BMW 5 Series M5 F10 - [2011],4.4
+Jaguar XF R-S 5.0 V8 - [2012],4.4
+Lotus Elise SC 1.8 - [2007],4.4
+Mercedes C Class 63 AMG - [2007],4.4
+Mercedes CLS Class 63 AMG - [2006],4.4
+Mitsubishi Lancer Evo IX FQ 320 - [2005],4.4
+Mitsubishi Lancer Evo VI GSR - [2000],4.4
+Mitsubishi Lancer Evo VIII MR FQ 340 - [2003],4.4
+Porsche 911 3.8 Speedster - [2010],4.4
+Porsche 911 Carrera 4S 991 - [2012],4.4
+Porsche 911 Carrera S 991 - [2011],4.4
+Porsche 911 GT3 RS 996 - [2003],4.4
+Porsche Panamera GTS 4.8 V8 - [2011],4.4
+Rolls-Royce Wraith 6.6L V12 - [2013],4.4
+TVR T350 T 3.6 - [2004],4.4
+Tesla Model S 85 kWh - [2012],4.4
+Aston-Martin DB9 5.9 V12 - [2012],4.5
+Audi A5 RS5 4.2 Quattro - [2010],4.5
+BMW 5 Series M550d xDrive F10 - [2013],4.5
+BMW 7 Series 760 Li - [2012],4.5
+BMW X6 M 4.4 V8 Turbo E71 - [2013],4.5
+Bentley Continental Flying Spur Speed 6.0 W12 - [2008],4.5
+Bentley Continental GTC Speed - [2009],4.5
+Bentley Continental GTZ Zagato 6.0 W12 2d - [2008],4.5
+Fisker Tramonto 5.4 V8 - [2005],4.5
+Ford Mustang FR 500 - [1999],4.5
+Holden HSV GTS Supercharger - [2002],4.5
+Lotus 340 R - [2000],4.5
+Maserati Quattroporte 3.8 V8 - [2012],4.5
+Mercedes CL Class 600 Coupe Bi Turbo - [2006],4.5
+Mercedes CLA 45 AMG 2.0 Turbo - [2013],4.5
+Mercedes CLK 63 AMG - [2006],4.5
+Mercedes CLS Class 55 AMG - [2006],4.5
+Mercedes E Class 55K AMG - [2003],4.5
+Mercedes S Class 63 AMG - [2006],4.5
+Mercedes S Class 63 L AMG - [2009],4.5
+Mercedes SL Class 63 AMG V8 R230 - [2008],4.5
+Mitsubishi Lancer Evo III - [1995],4.5
+Monteverdi Hai 450 GTS - [1973],4.5
+Monteverdi Hai 450 SS - [1970],4.5
+Morgan 3 Wheeler 2.0l V-Twin - [2011],4.5
+Nissan 370Z Nismo - [2009],4.5
+Porsche 911 50 Years 911 Edition - [2013],4.5
+Porsche 911 GT3 996 - [2003],4.5
+Porsche Cayman GTS PDK 3.4L - [2014],4.5
+Subaru Impreza WRX STI S206 - [2011],4.5
+Subaru Impreza WRX STI V3 - Classic (JDM) - [1996],4.5
+Subaru Impreza WRX Type RA - Classic (JDM) - [1996],4.5
+Aston-Martin Vantage V8 550 - [1993],4.6
+Audi A3 RS3 Sportback 2.5 Turbo - [2010],4.6
+Audi A4 RS4 4.2 V8 - [2005],4.6
+Audi A4 RS4 Avant 4.2 V8 - [2006],4.6
+Audi A4 RS4 Avant 4.2L V8 - [2012],4.6
+Audi A5 RS5 4.2 V8 Cabriolet - [2012],4.6
+Audi A6 RS6 5.0 TFSI V10 - [2008],4.6
+Audi A6 RS6 Avant 4.2 V8 Twin Turbo - [2002],4.6
+Audi A8 4.2 TDi Quattro - [2013],4.6
+BMW 5 Series 550i GT xDrive F07 - [2013],4.6
+Bentley Continental GT V8 - [2012],4.6
+Dodge Viper SRT/10 8.0L V10 - [1992],4.6
+Honda NSX R 3.2 V6 - [2002],4.6
+Jaguar XK R 5.0 Supercharged - [2009],4.6
+Lamborghini Countach LP5000S QV - [1985],4.6
+Lotus Esprit S4 3.5 V8 Turbo - [1996],4.6
+Lotus Evora S IPS 3.5 V8 - [2011],4.6
+Mercedes A Class 45 AMG 2.0 Turbo - [2013],4.6
+Nissan Skyline R34 GTR - [1999],4.6
+Porsche 911 Carrera 4S Cabriolet 991 - [2012],4.6
+Porsche 911 Carrera 996 - [1997],4.6
+Porsche 911 Carrera S Cabriolet 991 - [2011],4.6
+Porsche Boxster GTS PDK - [2014],4.6
+Porsche Cayman GTS 3.4L - [2014],4.6
+Subaru Impreza WRX STI 330S - Hatch - [2008],4.6
+Subaru Impreza WRX STI V1 - Classic (JDM) Wagon - [1994],4.6
+Wiesmann GT MF4 - [2008],4.6
+Audi A3 S3 2.0 Turbo S-Tronic - [2012],4.7
+Audi A4 RS4 Avant 2.7T Quattro V6 - [2000],4.7
+BMW 5 Series M5 V10 4d SMG E60 - [2004],4.7
+BMW Alpina B5 V8 Switchtronic E60 - [2006],4.7
+BMW X5 M Sport 4.4 V8 - [2009],4.7
+Bentley Continental GT 6.0 2d W12 - [2003],4.7
+Bentley Continental GTC 6.0 W12 Cabrio - [2005],4.7
+Caterham 7 Superlight R300 - [2003],4.7
+Chevrolet Corvette C4 ZR1 - [1995],4.7
+Ferrari 355 F1 Berlinetta - [1997],4.7
+Iso Grifo Can-Am 7.4 V8 - [1970],4.7
+Jaguar D Type 3.4L - [1954],4.7
+Jaguar XF R 5.0 V8 Supercharged - [2009],4.7
+Jaguar XJ V8 SuperSport - [2009],4.7
+Lotus Elise 1.8 S2 Sport 190 - [2003],4.7
+Maserati Ghibli S 3.0 V6 Turbo - [2013],4.7
+Maserati Ghibli S Q4 3.0 V6 Turbo - [2013],4.7
+Mazda RX7 Type-R Bathurst - [2002],4.7
+Mercedes SL Class 55 AMG V8 R230 - [2001],4.7
+Mitsubishi Lancer Evo V GSR - [1998],4.7
+Pontiac G8 GXP 6.2 V8 - [2008],4.7
+Porsche 968 3.0 Turbo S - [1993],4.7
+Porsche Boxster GTS - [2014],4.7
+Porsche Cayenne 4.8 Turbo - [2007],4.7
+Porsche Macan 3.6 Turbo - [2013],4.7
+Rolls-Royce Ghost 6.6L V12 - [2009],4.7
+Subaru Impreza P1 - Classic - [2000],4.7
+Subaru Impreza S201 STI - [2000],4.7
+Subaru Impreza WRX - Classic (JDM) - [1996],4.7
+Subaru Impreza WRX - Classic (JDM) - [1997],4.7
+Subaru Impreza WRX - Classic (JDM) - [1999],4.7
+Subaru Impreza WRX STI V1 - Classic (JDM) - [1994],4.7
+Subaru Impreza WRX STI V3 Type R - JDM - Classic - [1997],4.7
+Subaru Impreza WRX STI V3 V-Limited - Classic (JDM) - [1997],4.7
+Subaru Impreza WRX STI V4 - Classic (JDM) - [1997],4.7
+Subaru Impreza WRX STI V5 Type R - JDM - Classic - [1998],4.7
+Subaru Impreza WRX STI V5 Type RA - JDM - Classic - [1998],4.7
+Subaru Impreza WRX STI V5 V-Limited - Classic (JDM) - [1998],4.7
+Subaru Impreza WRX STI V6 - Classic (JDM) - [1999],4.7
+Subaru Impreza WRX STI V6 Type RA - JDM - Classic - [1999],4.7
+Subaru Impreza WRX Type RA - Classic (JDM) - [1994],4.7

@@ -1,0 +1,1580 @@
+car_full_nm,engine_size_cc,engine_size_ci
+Dodge Viper SRT10 ACR - [2007],8382,511.5
+Dodge Viper SRT-10 8.3 V10 - [2005],8285,505.5
+Dodge Viper SRT-10 8.3 V10 - [2003],8285,505.5
+Dodge Viper SRT/10 8.0L V10 - [1992],7997,488.0
+Dodge Viper 8.0L V10 - [1989],7994,487.8
+Bugatti Veyron 8.0 litre W16 - [2005],7993,487.7
+Bugatti Veyron 8.0 litre W16 Super Sport - [2010],7993,487.7
+Bugatti Veyron 16.4 Grand Sport Vitesse - [2012],7993,487.7
+Dodge Viper GTS - [1996],7986,487.3
+TVR Cerbera Speed 12 - [2000],7731,471.7
+TVR Speed 12 7.7L V12 - [1997],7730,471.7
+Ford Thunderbird 460 7.5 V8 6th Gen - [1972],7536,459.8
+Pontiac Firebird 455 4.7 L V8 - [1971],7467,455.6
+Oldsmobile Delta 88 Royale 7.5L V8 - [1970],7467,455.6
+Buick GS 455 Stage 1 7.5 V8 - [1969],7458,455.1
+Buick Riviera 7.5 V8 - [1971],7458,455.1
+Oldsmobile Cutlass 442 W30 - [1970],7453,454.8
+Oldsmobile Delmont 88 7.5L V8 - [1968],7453,454.8
+Oldsmobile 4-4-2 7.4 V8 Sports Coupe 365 - [1969],7447,454.4
+Oldsmobile Toronado 7.4 V8 - [1970],7447,454.4
+Chevrolet Corvette C3 ZR2 Stingray 7.4 V8 Convertible - [1971],7446,454.3
+Chevrolet Monte Carlo SS 454 425bhp - [1971],7446,454.3
+Chevrolet El Camino SS 454 LS6 - [1970],7446,454.3
+Chevrolet Chevelle-Malibu SS 454 Coupe 4 Speed 2nd Gen - [1973],7443,454.2
+Iso Grifo Can-Am 7.4 V8 - [1970],7443,454.2
+Chevrolet Corvette C3 Stingray 454 (7.4 V8) - [1972],7440,454.0
+Aston-Martin One77 7.3L V12 - [2011],7312,446.2
+Pagani Zonda C12 S 7.3 - [2002],7291,444.9
+Pagani Zonda F - [2005],7291,444.9
+Pagani Zonda Roadster - [2003],7291,444.9
+Pagani Zonda Cinque 7.3L - [2008],7291,444.9
+Mercedes SL Class 73 AMG V12 R129 - [1999],7291,444.9
+Dodge Charger 7.2L Daytona - [1969],7206,439.7
+Dodge Charger SE Hardtop 7.2L TorqueFlite - [1972],7206,439.7
+Plymouth Road Runner 440 V8 1st Gen - [1969],7206,439.7
+Dodge Coronet Hardtop R/T 7.2L V8 440 - [1968],7206,439.7
+Dodge Challenger R/T 440 7.2 V8 - [1970],7206,439.7
+Monteverdi High Speed 375 L 7.2 V8 - [1967],7206,439.7
+Plymouth Barracuda 440 - [1970],7206,439.7
+Jensen SP Automatic 7.2 V8 - [1971],7206,439.7
+Jensen Interceptor Coupe 7.2 V8 - [1975],7206,439.7
+Jensen Interceptor Mk 3 S4 - [1972],7206,439.7
+Lincoln Continental 7.0L V8 - [1962],7043,429.7
+Mercury Marauder X-100 - [1969],7035,429.3
+Ford Mustang Boss 429 - [1969],7033,429.1
+Ford Falcon 4th Gen 429 Cobra Jet V-8 4-speed - [1970],7033,429.1
+Ford Torino 2nd Gen Cobra SportsRoof Boss - [1970],7033,429.1
+Ford Torino 2nd Gen GT 429 4V Cobra Jet V-8 4-speed - [1970],7033,429.1
+Cadillac Eldorado 7.0l V8 Hardtop Coupe - [1967],7025,428.6
+Chevrolet Corvette Z06 - [2006],7011,427.8
+AC 428 Coupe 7.0L V8 - [1967],7010,427.7
+Ford Mustang 428 Cobra Jet 7.0 V8 - [1968],7010,427.7
+AC Cobra 427 - [1966],7000,427.1
+Chevrolet Corvette C2 Stingray 427 425hp - [1966],6999,427.1
+Chevrolet Impala SS 427 - [1967],6999,427.1
+Iso Grifo 7 Litre - [1968],6999,427.1
+Saleen S7 7.0 V8 - [2000],6998,427.0
+Ford Mustang Mach 1 428 Super Cobra Drag Pack 4 Speed - [1969],6997,426.9
+Ford Thunderbird 428 Hard Top 5th Gen. - [1967],6997,426.9
+Ford Torino 1st Gen Cobra Hardtop Ram Air - [1969],6997,426.9
+Chevrolet Corvette C3 427 V8 Convertible - [1968],6996,426.9
+Plymouth Road Runner 426 Hemi V8 1st Gen - [1968],6981,426.0
+Dodge Charger 7.0L Daytona Hemi - [1969],6974,425.5
+Dodge Coronet Hardtop R/T 7.0L V8 426 - [1968],6974,425.5
+Dodge Challenger R/T 426 7.0 V8 Hemi - [1970],6974,425.5
+Monteverdi Hai 450 GTS - [1973],6974,425.5
+Monteverdi Hai 450 SS - [1970],6974,425.5
+Oldsmobile Toronado 7L V8 - [1966],6970,425.3
+Oldsmobile Starfire 7.0 V8 - [1966],6970,425.3
+Ford XL XL Fastback 427 - [1968],6964,424.9
+SSC Tuatara 6.9L V8 Twin Turbo - [2011],6942,423.6
+Mercedes CLK GTR 6.9 V12 - [1998],6898,420.9
+Bentley Arnage T 6.8 V8 4d Auto - [2006],6761,412.5
+Bentley Azure Continental Coupe Le Mans Series - [2005],6761,412.5
+Bentley Brooklands 2d - [2007],6761,412.5
+Bentley Azure T 6.8 V8 - [2008],6761,412.5
+Bentley Arnage R 6.8 V8 Twin Turbo - [2006],6761,412.5
+Bentley Brooklands 4d - [1993],6750,411.9
+Bentley Mulsanne 6.8 V8 Turbo - [1983],6750,411.9
+Rolls-Royce Phantom Saloon 4d - [2003],6750,411.9
+Rolls-Royce Silver Spirit II 6.8 V8 - [1992],6750,411.9
+Bentley Mulsanne Turbo R - [1992],6750,411.9
+Bentley Mulsanne Turbo RT - [1998],6750,411.9
+Bentley T 2 6.8 V8 - [1977],6750,411.9
+Bentley Corniche 6.8 V8 - [1971],6750,411.9
+Bentley Corniche 6.8 V8 Convertible - [1971],6750,411.9
+Bentley Arnage R 6.8 V8 Turbo - [2002],6750,411.9
+Bentley Continental R 6.8 V8 Turbo - [2001],6750,411.9
+Bentley Continental T 6.8 V8 Turbo - [1998],6750,411.9
+Bentley Continental R 6.8 V8 Turbo - [1995],6750,411.9
+Bentley Mulsanne 6.8 V8 Twin Turbo - [2009],6750,411.9
+Rolls-Royce Phantom Series 2 - [2012],6749,411.8
+Rolls-Royce Phantom Series II Drop-Head Coupe - [2012],6749,411.8
+Rolls-Royce Phantom Coupe 6.7 V12 - [2008],6749,411.8
+Rolls-Royce Ghost 6.6L V12 - [2009],6592,402.2
+Rolls-Royce Wraith 6.6L V12 - [2013],6592,402.2
+Ford Thunderbird 400 6.6L V8 7th Gen - [1977],6590,402.1
+Chevrolet Impala Custom Hardtop 6.6L V8 - [1972],6586,401.9
+Pontiac Firebird 6.6L Trans Am - [1979],6555,400.0
+Buick Riviera 6.6l V8 - [1966],6555,400.0
+Buick Riviera 6.6 V8 - [1962],6555,400.0
+Pontiac GTO 6.6 Litre V8 HO - [1967],6554,399.9
+Pontiac Tempest GT-37 6.6 V8 - [1971],6554,399.9
+Pontiac Firebird 400 - [1967],6554,399.9
+Pontiac GTO The Judge 6.5L V8 - [1969],6548,399.5
+Lamborghini Aventador LP700-4 - [2011],6498,396.5
+Lamborghini Aventador LP720-4 50th Anniversario - [2013],6498,396.5
+Lamborghini Aventador LP700-4 Roadster - [2013],6498,396.5
+Lamborghini Veneno 6.5 V12 - [2013],6498,396.5
+Lamborghini Veneno Roadster 6.5 V12 - [2013],6498,396.5
+Lamborghini Murcielago LP640 6.5 V12 - [2006],6496,396.4
+Lamborghini Reventon 6.5 V12 - [2007],6496,396.4
+Lamborghini Reventon Roadster 6.5L V12 - [2009],6496,396.4
+Chevrolet Chevy II Nova SS 396 V8 3spd Manual - [1969],6489,395.9
+Chevrolet Chevelle-Malibu SS 396 Sport Coupe 350hp 4speed 1st Gen - [1968],6489,395.9
+Chevrolet Camaro SS 396 Coupe 4 Speed Close 1st Gen - [1967],6489,395.9
+Jeep Grand Cherokee 6.4 V8 SRT8 - [2012],6410,391.1
+Dodge Challenger SRT-8 6.4 V8 392 - [2010],6410,391.1
+Mercury Cyclone 6.4 V8 - [1966],6399,390.4
+AMC AMX /3 6.4L V8 - [1969],6386,389.6
+AMC AMX 6.4L V8 7030 - [1969],6386,389.6
+Ford Mustang Mach 1 390 4 Speed - [1969],6384,389.5
+Ford Thunderbird 390 Convertible 3rd Gen. - [1961],6384,389.5
+Ford Thunderbird 390 Convertible 4th Gen. - [1964],6384,389.5
+Cadillac Eldorado Convertible 6.4L V8 3rd Gen - [1959],6384,389.5
+Ford Fairlane GTA 390 6.4 V8 - [1967],6383,389.5
+Pontiac Bonneville 6.4L V8 - [1960],6371,388.7
+Pontiac Bonneville 6.4L V8 - [1960],6371,388.7
+Pontiac GTO 6.4L V8 - [1966],6362,388.2
+Pontiac GTO 6.4 V8 - [1964],6362,388.2
+SSC Ultimate Aero TT - [2008],6348,387.3
+Mercedes 600 W-100 - [1964],6332,386.4
+Mercedes 600 Coupe W100 - [1965],6332,386.4
+Audi A8 6.3 W12 L - [2012],6299,384.3
+Plymouth Fury 384 - [1967],6295,384.1
+Jensen Interceptor FF 6.3L V8 - [1968],6286,383.5
+Jensen Interceptor Mk 2 6.3L V8 - [1969],6286,383.5
+Jensen CV8 FF 6.3L V8 - [1965],6286,383.5
+Bristol 411 6.3 V8 - [1969],6286,383.5
+Dodge Coronet Super Bee 6.3 V8 383 - [1968],6277,383.0
+Dodge Dart GTS Hardtop 6.3 V8 383 - [1967],6277,383.0
+Ferrari FF 6.3L V12 - [2011],6262,382.1
+Ferrari F12 Berlinetta 6.3L V12 - [2012],6262,382.1
+Ferrari LaFerrari 6.3L V12 - [2013],6262,382.1
+SSC Aero SC 8T 6.3L - [2005],6257,381.8
+Bentley S 2 Saloon - [1959],6231,380.2
+Bentley S 3 - [1962],6231,380.2
+Bentley T 6.2 V8 - [1965],6231,380.2
+Mercedes C Class 63 AMG - [2007],6208,378.8
+Mercedes CLS Class 63 AMG - [2006],6208,378.8
+Mercedes S Class 63 AMG - [2006],6208,378.8
+Mercedes SLS 6.2 V8 AMG Coupe DCT-7 - [2009],6208,378.8
+Mercedes CLK 63 AMG - [2006],6208,378.8
+Mercedes CLK 63 AMG Black Series - [2007],6208,378.8
+Mercedes SLS AMG Black Series 6.2 V8 - [2012],6208,378.8
+Mercedes SLS AMG GT 6.2 V8 - [2012],6208,378.8
+Mercedes SL Class 63 AMG V8 R230 - [2008],6208,378.8
+Mercedes C Class 63 AMG Edition 507 - [2013],6208,378.8
+Mercedes C Class 63 AMG Edition 507 Estate - [2013],6208,378.8
+Mercedes C Class 63 AMG Edition 507 Coupe - [2013],6208,378.8
+Mercedes C Class 63 AMG Coupe Black Series - [2011],6208,378.8
+Mercedes SLS AMG Roadster GT - [2012],6208,378.8
+Mercedes S Class 63 L AMG - [2009],6208,378.8
+Lamborghini Murcielago 6.2 V12 - [2001],6192,377.8
+Cadillac CTS -V 6.2 V8 Auto - [2009],6162,376.0
+Chevrolet Corvette 6.2 V8 2d - [2007],6162,376.0
+Chevrolet Corvette C6 ZR1 - [2007],6162,376.0
+Chevrolet Camaro SS 6.2 V8 - [2008],6162,376.0
+Chevrolet Corvette C6 ZR1 6.2 V8 - [2009],6162,376.0
+Hennessey Venom GT - [2010],6162,376.0
+Chevrolet Camaro ZL1 6.2L V8 - [2011],6162,376.0
+Pontiac G8 GXP 6.2 V8 - [2008],6162,376.0
+Vauxhall-Opel VXR8 Tourer 6.2 V8 - [2013],6162,376.0
+Vauxhall-Opel VXR8 GTS 6.2 V8 - [2013],6162,376.0
+Chevrolet SS 6.2 V8 - [2014],6162,376.0
+McLaren F1 6.0 V12 - [1994],6064,370.0
+Chrysler 300 6.1 SRT-8 - [2004],6059,369.7
+Dodge Charger 6.1 SRT8 - [2008],6059,369.7
+Ferrari 599 GTB Fiorano - [2006],5999,366.0
+Ferrari SA Aperta Pininfarina 6.0 V12 - [2011],5999,366.0
+Ferrari 599 GTO - [2010],5999,366.0
+Bentley Continental GT 6.0 2d W12 - [2003],5998,366.0
+Bentley Continental GT Speed 2d Auto - [2007],5998,366.0
+Bentley Continental GTC 6.0 W12 Cabrio - [2005],5998,366.0
+Bentley Continental GTZ Zagato 6.0 W12 2d - [2008],5998,366.0
+Ferrari Enzo 6.0 V12 - [2002],5998,366.0
+Maserati MC12 6.0 V12 - [2004],5998,366.0
+Volkswagen(VW) Phaeton 6.0 W12 - [2005],5998,366.0
+Bentley Continental SuperSports Flying Star - [2010],5998,366.0
+Bentley Continental SuperSports 6.0 W12 - [2009],5998,366.0
+Bentley Continental GT Speed - [2012],5998,366.0
+Volkswagen(VW) Touareg 6.0 W12 Sport - [2004],5998,366.0
+Bentley Continental GTC Speed - [2009],5998,366.0
+Bentley Continental GT Speed 6.0 W12 - [2014],5998,366.0
+Bentley Continental GT Speed Convertible 6.0 W12 - [2013],5998,366.0
+Bentley Continental Flying Spur 6.0 W12 - [2005],5998,366.0
+Bentley Continental Flying Spur Speed 6.0 W12 - [2008],5998,366.0
+Jaguar XJ R-S 6.0 V12 - [1989],5993,365.7
+Lamborghini Diablo 6.0 V12 - [2000],5992,365.6
+Lamborghini Diablo GTR 6.0L V12 - [2001],5992,365.6
+Lamborghini Diablo VT 6.0L V12 - [2000],5992,365.6
+Mercedes SL Class 600SL V12 R129 - [1992],5987,365.3
+Mercedes 600 SEL V140 - [1991],5987,365.3
+Maybach 57 S 6.0 V12 - [2005],5980,364.9
+Mercedes CL Class 65 AMG Bi Turbo - [2003],5980,364.9
+Pagani Huayra 6.0L Twin turbo - [2013],5980,364.9
+Mercedes G Class G65 AMG - [2012],5980,364.9
+Mercedes SL Class 65 AMG V12 - [2012],5980,364.9
+Mercedes SL Class 65 AMG V12 Black Series R230 - [2008],5980,364.9
+Mercedes SL Class 65 AMG V12 R230 - [2008],5980,364.9
+Mercedes SL Class 65 AMG V12 R230 - [2004],5980,364.9
+Mercedes S Class 65 AMG - [2013],5980,364.9
+Mercedes S Class 65 AMG - [2010],5980,364.9
+BMW 7 Series 760 Li - [2012],5972,364.4
+Pontiac GTO 6.0 V8 - [2004],5970,364.3
+Chevrolet Corvette Callaway C16 - [2007],5967,364.1
+Chevrolet Silverado SS 6.0 - [2003],5967,364.1
+Pontiac G8 GT 6.0 - [2008],5967,364.1
+Vauxhall-Opel Monaro 6.0 V8 VXR - [2005],5967,364.1
+Vauxhall-Opel VXR8 6.0 V8 - [2007],5967,364.1
+Holden Commodore SS 6.0 V8 - [2011],5967,364.1
+Mercedes E Class 60 AMG 6.0 V8 W124 - [1993],5956,363.4
+Aston-Martin Vanquish 5.9 V12 RS - [2009],5938,362.3
+Aston-Martin DB7 Vantage - [1999],5935,362.1
+Aston-Martin DB9 V12 - [2003],5935,362.1
+Aston-Martin DBS V12 2d - [2007],5935,362.1
+Aston-Martin Vanquish 5.9 V12 - [2000],5935,362.1
+Aston-Martin Rapide 6.0 V12 - [2009],5935,362.1
+Aston-Martin Rapide S 5.9 V12 - [2013],5935,362.1
+Aston-Martin Vanquish 5.9 V12 - [2012],5935,362.1
+Aston-Martin Vantage V12 Zagato - [2012],5935,362.1
+Aston-Martin Vantage V12 S - [2013],5935,362.1
+Aston-Martin Vantage V12 Roadster - [2012],5935,362.1
+Aston-Martin DB9 5.9 V12 - [2012],5935,362.1
+Audi R8 6.0 Quattro V12 TDI - [2009],5934,362.1
+Audi Q7 6.0 V12 TDi Quattro - [2008],5934,362.1
+Ford GT 90 6.0L V12 - [1995],5927,361.6
+Dodge Dart Phoenix 5.9 V8 360 Hardtop - [1960],5913,360.8
+Dodge Magnum GT 5.9L V8 - [1979],5898,359.9
+AMC Hornet 360 V8 - [1974],5896,359.7
+AMC Matador X Coupe - [1974],5896,359.7
+Ford Mustang Shelby GT500 - [2012],5812,354.6
+Pontiac Firebird 350 - [1969],5798,353.8
+Studebaker Golden Hawk 5.8L V8 (352) - [1956],5768,351.9
+Ford Mustang Mach 1 351 4 Speed - [1969],5766,351.8
+Ford Thunderbird 352 Special Overdrive 2nd Gen. - [1958],5766,351.8
+Ford Falcon 4th Gen 351 V8 4-speed - [1970],5766,351.8
+DeTomaso Pantera GTS 5.8 V8 - [1973],5766,351.8
+DeTomaso Pantera GT5 S 5.8 V8 - [1979],5766,351.8
+DeTomaso Pantera L 5.7L V8 - [1973],5763,351.6
+Ferrari 575 M Fiorano - [2002],5748,350.7
+Ferrari 612 Scaglietti F1 - [2004],5748,350.7
+Porsche Carrera GT - [2003],5733,349.8
+Chevrolet Chevelle-Malibu SS 350 Coupe 2nd Gen - [1973],5733,349.8
+Chevrolet Camaro IROC-Z 5.7 V8 - [1987],5733,349.8
+Chevrolet Corvette C3 Stingray ZR-1 - [1972],5733,349.8
+Chevrolet Corvette C4 350 - [1984],5733,349.8
+Chevrolet Camaro 5.7 V8 Z28 - [1991],5733,349.8
+Chevrolet Malibu 5.7 V8 Turbo Hydra-Matic - [1970],5733,349.8
+Chevrolet Corvette C4 ZR1 - [1995],5732,349.7
+Lamborghini Diablo SE 5.7 V12 - [1994],5707,348.2
+Lamborghini Diablo VT 5.7 V12 - [1993],5707,348.2
+Chevrolet Impala 348 Hardtop - [1960],5697,347.6
+Vauxhall-Opel Monaro 5.7 V8 VXR - [2004],5667,345.8
+Ultima GTR 720 - [2000],5666,345.7
+Ultima GTR 5.7 - [2000],5666,345.7
+Chevrolet Camaro Z28 SS 5.7 V8 - [1998],5666,345.7
+Chevrolet Camaro Z28 SS 5.7 V8 - [2002],5666,345.7
+Holden HSV GTS Supercharger - [2002],5665,345.7
+Pontiac Firebird Formula W96 Ram Air - [2001],5665,345.7
+Pontiac GTO 5.7 V8 - [2003],5665,345.7
+Chrysler 300 c 5.7 V8 - [2005],5654,345.0
+Chrysler 300 c 5.7 Hemi - [2003],5654,345.0
+Dodge Challenger 5.7 V8 R/T - [2009],5654,345.0
+Dodge Charger 5.7 V8 R/T - [2006],5654,345.0
+Dodge Magnum 5.7 V8 RT - [2005],5654,345.0
+Dodge Ram 1500 SLT Hemi - [2003],5654,345.0
+Dodge Ram Sport RT - [2009],5654,345.0
+Dodge Challenger Rallye 340 - [1972],5565,339.5
+Plymouth AAR Cuda 340 V8 - [1970],5563,339.4
+Dodge Dart Demon Sport Coupe 5.5 V8 340 - [1971],5563,339.4
+Mercedes SL Class 560SL V8 R107 - [1986],5547,338.5
+Maybach 62 5.5 V12 Auto - [2003],5513,336.4
+Mercedes CL Class 600 Coupe Bi Turbo - [2006],5513,336.4
+Ferrari 465 M GT - [1998],5474,334.0
+Ferrari 550 Maranello - [1997],5474,334.0
+Ferrari 456 GT 5.5 V12 - [1992],5474,334.0
+Ferrari 456 M GT 5.5 GT - [1998],5474,334.0
+Mercedes E Class 500 Sport - [2009],5461,333.2
+Mercedes CLS Class 63 AMG Shooting Brake - [2012],5461,333.2
+Mercedes CLK 500 Cabriolet - [2006],5461,333.2
+Mercedes CLS Class 63 AMG Shooting Brake PP - [2012],5461,333.2
+Mercedes E Class 63 AMG - [2013],5461,333.2
+Mercedes SL Class 63 AMG Performance Package - [2012],5461,333.2
+Mercedes SL Class 63 AMG V8 - [2012],5461,333.2
+Mercedes CLS Class 63 AMG 4Matic - [2013],5461,333.2
+Mercedes S Class 63 Coupe 4Matic - [2014],5461,333.2
+Mercedes C Class 55 AMG - [2004],5439,331.9
+Mercedes CLS Class 55 AMG - [2006],5439,331.9
+Mercedes E Class 55K AMG - [2003],5439,331.9
+Mercedes SLR Class McLaren Stirling Moss - [2009],5439,331.9
+Mercedes SLK Class 55 AMG - [2004],5439,331.9
+Mercedes SLR Class McLaren - [2003],5439,331.9
+Mercedes SLR Class McLaren 722 Edition - [2006],5439,331.9
+Mercedes SLR Class McLaren Roadster - [2009],5439,331.9
+Mercedes G Class G 55 AMG Kompressor - [2006],5439,331.9
+Mercedes CLK DTM Cabriolet - [2006],5439,331.9
+Mercedes CLK DTM AMG 5.4 V8 - [2004],5439,331.9
+Mercedes CLK 55 AMG Cabriolet - [2003],5439,331.9
+Mercedes CLK 55 AMG - [1999],5439,331.9
+Mercedes SLR Class McLaren 722 S Roadster - [2008],5439,331.9
+Mercedes SL Class 55 AMG V8 R230 - [2001],5439,331.9
+Mercedes C Class 55 AMG - [1998],5439,331.9
+Fisker Tramonto 5.4 V8 - [2005],5439,331.9
+Fisker Tramonto 5.4 V8 Performance Plus - [2005],5439,331.9
+Ford GT 5.4 V8 - [2003],5409,330.0
+Ford Mustang Shelby GT500 - [2006],5409,330.0
+Ford Mustang GT 500 - [2010],5409,330.0
+Porsche 928 GTS 5.4L V8 - [1991],5397,329.3
+BMW 7 Series 750i (E38) - [1999],5379,328.2
+BMW 7 Series 750i E38 Auto - [1995],5379,328.2
+Chevrolet Corvette C1 327 V8 - [1962],5354,326.7
+Iso Grifo GL 365 5.4L V8 - [1965],5354,326.7
+Iso Grifo GL 300 5.4L V8 - [1965],5354,326.7
+Iso Rivolta IR 340 5.4L V8 - [1962],5354,326.7
+Iso Fidia 350 5.4L V8 - [1967],5354,326.7
+Holden Monaro GTS 327 5.4 V8 - [1968],5354,326.7
+Jaguar E Type 5.3 V12 - [1972],5344,326.1
+Jaguar E Type 5.3L V12 2+2 - [1971],5344,326.1
+Jaguar XJ 12 5.3 - [1972],5344,326.1
+Aston-Martin Vantage 600 - [1998],5341,325.9
+Aston-Martin Virage 5.3 V8 1988 - [1988],5341,325.9
+Aston-Martin Volante 5.3L V8 - [1988],5341,325.9
+Aston-Martin Lagonda Series 1 5.3L V8 - [1974],5341,325.9
+Aston-Martin Lagonda Series 2 - [1976],5341,325.9
+Aston-Martin Lagonda Series 3 5.3L V8 - [1986],5341,325.9
+Aston-Martin Lagonda Series 4 5.3L V8 - [1987],5341,325.9
+Aston-Martin Vantage V8 550 - [1993],5340,325.8
+Chevrolet Chevy II Nova SS 327 V8 Turbo Fire 350hp - [1966],5327,325.0
+Bristol 410 5.2 V8 - [1967],5210,317.9
+Audi A6 S6 5.2 Quattro - [2006],5204,317.5
+Audi A8 S8 5.2 Quattro - [2005],5204,317.5
+Audi R8 5.2 FSI Quattro V10 - [2009],5204,317.5
+Lamborghini Gallardo LP560-4 - [2008],5204,317.5
+Lamborghini Gallardo LP570-4 Super Trofeo Stradale - [2011],5204,317.5
+Audi R8 Spyder 5.2L V10 - [2009],5204,317.5
+Audi R8 Spyder GT 5.2L V10 - [2011],5204,317.5
+Audi R8 GT 5.2L V10 - [2011],5204,317.5
+Audi R8 Plus 5.2 V10 - [2012],5204,317.5
+Audi R8 5.2 V10 Spyder - [2012],5204,317.5
+Lamborghini Gallardo LP550-2 Spyder - [2011],5204,317.5
+Lamborghini Gallardo LP570-4 Spyder Performante Edizione - [2013],5204,317.5
+Audi R8 Plus S-Tronic 5.2 V10 - [2012],5204,317.5
+Lamborghini Huracan LP 610-4 - [2014],5204,317.5
+Lamborghini Countach LP5000S QV - [1985],5167,315.3
+Lamborghini LM002 5.2 V12 - [1986],5167,315.3
+Ford Thunderbird 312 - [1956],5116,312.1
+Hudson Hornet 308 5L - [1954],5047,307.9
+Koenigsegg Agera 5L V8 - [2011],5032,307.0
+Koenigsegg Agera R 5.0 V8 - [2012],5032,307.0
+Koenigsegg Agera S 5.0 V8 Hundra - [2013],5032,307.0
+Infiniti FX 50 5.0 V8 - [2011],5026,306.7
+Chevrolet Camaro 5.0 V8 RS - [1990],5016,306.0
+Pontiac Firebird 5.0L Trans Am - [1985],5013,305.9
+Jaguar XF R 5.0 V8 Supercharged - [2009],5000,305.1
+Jaguar XK 5.0 V8 Coupe - [2009],5000,305.1
+Jaguar XK R 5.0 Supercharged - [2009],5000,305.1
+Jaguar XK R-S 5.0 V8 - [2011],5000,305.1
+Jaguar XJ V8 SuperSport - [2009],5000,305.1
+Jaguar F Type 5.0L V8 S Cabriolet - [2012],5000,305.1
+Land-Rover Range Rover Sport 5.0 V8 Supercharged - [2012],5000,305.1
+Jaguar XF R-S 5.0 V8 - [2012],5000,305.1
+Jaguar XK R-S GT 5.0 V8 - [2013],5000,305.1
+BMW 5 Series M5 V10 4d SMG E60 - [2004],4999,305.0
+BMW 6 Series M6 Convertible 2d SMG E64 - [2005],4999,305.0
+Wiesmann GT MF5 - [2009],4999,305.0
+TVR Chimaera 500 5.0L V8 - [2001],4997,304.9
+Ford Mustang FR 500 - [1999],4997,304.9
+MG SV R X Power - [2004],4996,304.8
+Audi A6 RS6 5.0 TFSI V10 - [2008],4991,304.5
+Audi A6 RS6 Avant 5.0 V10 - [2007],4991,304.5
+BMW 8 Series 850i 2d Auto - [1990],4988,304.3
+TVR Chimaera 5.0 - [1993],4988,304.3
+TVR Griffith 500 - [1993],4988,304.3
+Mercedes SL Class 500 - [1997],4973,303.4
+Mercedes SL Class 500SL V8 R107 - [1985],4973,303.4
+Mercedes SL Class 500SL R129 - [1989],4973,303.4
+Mercedes SL Class 500SL V8 R107 - [1980],4973,303.4
+Mercedes E Class 500 W124 - [1990],4973,303.4
+Lexus IS F 5.0 V8 - [2008],4969,303.2
+Lexus LS 600h - [2012],4969,303.2
+Ferrari 500 Superfast 5.0 V12 - [1964],4963,302.8
+Ferrari 410 Superamerica Series 1 - [1955],4963,302.8
+Ferrari 410 Superamerica Series 3 - [1959],4963,302.8
+Lamborghini Gallardo 5.0 V10 - [2003],4961,302.7
+Lamborghini Gallardo 5.0 V10 Spyder - [2005],4961,302.7
+Lamborghini Gallardo 5.0 V10 Superleggera - [2007],4961,302.7
+Porsche 928 S4 5.0L V8 - [1986],4957,302.4
+Ford Mustang Boss 302 - [2010],4951,302.1
+Ferrari 512 TR - [1992],4943,301.6
+Ferrari Testarossa 5.0L Boxer - [1984],4943,301.6
+Ford Mustang Boss 302 - [1969],4942,301.5
+Chevrolet Camaro Z28 Sport Coupe 1st Gen - [1967],4942,301.5
+Ford Mustang GT 4.9 V8 - [1982],4942,301.5
+Ford Mustang 2 King Cobra - [1978],4942,301.5
+DeTomaso Pantera GT5 S 4.9 V8 - [1990],4942,301.5
+DeTomaso Mangusta 4.9 V8 - [1966],4942,301.5
+Ferrari 512 M - [1994],4942,301.5
+Ferrari 412 i 4.9 V12 - [1986],4942,301.5
+Ford Thunderbird 300 4.9L V8 8th Gen - [1980],4942,301.5
+Ford Thunderbird 4.9 V8 - [1991],4942,301.5
+Ascari KZ1 5.0 V8 - [2003],4941,301.5
+BMW 5 Series M5 E39 - [1999],4941,301.5
+BMW Z8 5.0 V8 2d LHD - [2000],4941,301.5
+Ascari A10 5.0 V8 - [2006],4940,301.4
+Maserati 5000 GT - [1959],4938,301.3
+Volkswagen(VW) Touareg 4.9 V10 - [2002],4921,300.2
+Volkswagen(VW) Touareg R50 4.9 V10 - [2008],4921,300.2
+BMW Alpina B10 V8S - [2002],4837,295.1
+Ferrari 400 GTS - [1976],4823,294.3
+Porsche Cayenne 4.8 Turbo - [2007],4806,293.2
+Porsche Panamera 4.8 V8 Turbo PDK - [2009],4806,293.2
+Porsche Cayenne GTS 4.8 V8 - [2012],4806,293.2
+Porsche Cayenne 4.8 V8 Turbo S - [2013],4806,293.2
+Porsche Panamera 4.8 V8 Turbo S - [2011],4806,293.2
+Porsche Panamera GTS 4.8 V8 - [2011],4806,293.2
+Porsche Panamera GTS 4.8 V8 - [2013],4806,293.2
+Porsche Panamera Turbo 4.8 V8 - [2013],4806,293.2
+Lexus LFA Nurburgring - [2011],4805,293.2
+Koenigsegg CCX R Special Edition 4.8 V8 S - [2008],4800,292.9
+BMW 5 Series 550i M-Sport - [2007],4799,292.8
+Morgan Aeromax 4.8 V8 - [2008],4799,292.8
+Wiesmann GT MF4 - [2008],4799,292.8
+Morgan Aero Coupe 4.8L V8 - [2011],4799,292.8
+BMW X5 4.8i V8 - [2008],4799,292.8
+BMW X5 4.8is V8 - [2004],4799,292.8
+Ford Thunderbird 292 Fordomatic 1st Gen. - [1955],4778,291.5
+Lamborghini Countach LP500S - [1982],4754,290.1
+Aston-Martin Vantage V8 - [2008],4735,288.9
+Aston-Martin Vantage V8 SP10 - [2013],4735,288.9
+Ford GT 40 - [1967],4727,288.4
+Ford Mustang GT 350 Shelby - [1965],4727,288.4
+Ford Falcon 3rd Gen Sports Coupe 289 V8 4-Speed - [1966],4727,288.4
+Ford Falcon 2nd Gen Sprint Hardtop 289 V8 4-Speed - [1965],4727,288.4
+Ford Mustang Hardtop 4.7 V8 - [1965],4727,288.4
+Ford Mustang Hardtop 289 4.7 V8 - [1965],4727,288.4
+DeTomaso Mangusta 4.7 V8 - [1967],4727,288.4
+Maserati Bora 4.7 V8 - [1971],4719,287.9
+Koenigsegg CCR 4.7 V8 Supercharged - [2005],4700,286.8
+Koenigsegg CCX 4.7 V8 Supercharged - [2006],4700,286.8
+Koenigsegg CCX 4.7 V8 Supercharged - [2006],4700,286.8
+Koenigsegg Agera 4.7L V8 - [2010],4700,286.8
+Ferrari F50 4.7 V12 - [1995],4698,286.6
+Ferrari F50 GT1 4.7l V12 - [1996],4698,286.6
+Alfa-Romeo 8C Competitzione - [2008],4691,286.2
+Maserati GranTurismo V8 S - [2008],4691,286.2
+Maserati Quattroporte Sport GTS 4.7 V8 - [2009],4691,286.2
+Alfa-Romeo 8C Competitzione Spider - [2008],4691,286.2
+Alfa-Romeo Disco Volante 4.7 V8 - [2013],4691,286.2
+Porsche 928 S 4.7L V8 - [1980],4664,284.6
+Chevrolet Corvette C1 283 Convertible - [1957],4639,283.0
+Chevrolet Chevy II Nova SS 283 V8 Turbo Fire - [1964],4638,283.0
+Chevrolet Chevy II Nova SS 283 V8 Turbo Fire - [1964],4638,283.0
+KIA Borrego 4.6 V8 AWD - [2009],4627,282.3
+BMW X5 4.6is V8 - [2001],4619,281.8
+Lexus LS 460 4.6 V8 - [2012],4608,281.1
+Ford Mustang GT 4.6 V8 - [2004],4606,281.0
+MG SV 5.0 V8 - [2004],4601,280.7
+MG ZT 4.6 V8 260 - [2003],4601,280.7
+Ford Mustang 4th Gen SVT Cobra Coupe - [1999],4601,280.7
+Ford Mustang Mach 1 - [2003],4601,280.7
+Porsche 918 Spyder 4.6 V8 - [2013],4593,280.2
+Bentley R-Type 4.6 4d Saloon - [1952],4566,278.6
+Cadillac STS 4.6 V8 Sport Luxury - [2005],4565,278.5
+TVR Chimaera 4.5 - [1993],4546,277.4
+Mercedes SLC 450 C107 - [1971],4520,275.8
+Mercedes SL Class 450SL V8 R107 - [1971],4520,275.8
+Mercedes SL Class 450SL V8 R107 - [1975],4520,275.8
+Porsche Cayenne Turbo S - [2006],4511,275.2
+Ferrari 458 4.5 V8 - [2009],4499,274.5
+Ferrari 458 Spider 4.5 V8 - [2011],4499,274.5
+Ferrari 458 Speciale 4.5 V8 - [2013],4497,274.4
+Infiniti M45 4.5 V8 Sport - [2006],4494,274.2
+Plymouth Barracuda S 273 - [1965],4492,274.1
+Lagonda V12 LeMans 4.5L V8 - [1939],4480,273.3
+TVR Cerbera 4.5 - [1997],4475,273.0
+TVR Cerbera 4.0 - [2004],4475,273.0
+Porsche 928 4.5 V8 - [1977],4474,273.0
+Noble M600 4.4L V8 - [2009],4439,270.8
+Volvo S80 4.4 V8 AWD - [2006],4414,269.3
+BMW 5 Series 540i M-Sport E39 - [2002],4398,268.3
+BMW 7 Series 740i E38 Auto - [1998],4398,268.3
+BMW 7 Series 745i Auto - [2001],4398,268.3
+BMW Alpina B5 V8 Switchtronic E60 - [2006],4398,268.3
+BMW Alpina B7 V8 Tiptronic E65 - [2006],4398,268.3
+Morgan Aero 8 4.4 V8 - [2000],4398,268.3
+Land-Rover Range Rover 4.4 V8 - [2005],4398,268.3
+Land-Rover Range Rover V8 Vogue - [2002],4398,268.3
+BMW X5 4.4 V8 - [1999],4398,268.3
+Bentley Arnage 4.4 V8 - [1998],4398,268.3
+BMW 5 Series M5 F10 - [2011],4395,268.2
+BMW 6 Series M6 4.4 V8 F13 - [2012],4395,268.2
+BMW 6 Series M6 Gran Coupe 4.4 V8 - [2012],4395,268.2
+BMW 6 Series M6 Cabriolet 4.4 V8 - [2012],4395,268.2
+BMW 5 Series 550i - [2013],4395,268.2
+BMW X5 4.4 V8 XDrive50i - [2013],4395,268.2
+BMW X5 M Sport 4.4 V8 - [2009],4395,268.2
+BMW 5 Series M5 Competition Pack F10 - [2013],4395,268.2
+BMW 5 Series 550i GT xDrive F07 - [2013],4395,268.2
+BMW 5 Series 550i xDrive F10 - [2013],4395,268.2
+BMW X6 M 4.4 V8 Turbo E71 - [2013],4395,268.2
+Land-Rover Discovery 3 4.4 V8 - [2004],4394,268.1
+Ferrari 365 GTB/4 Daytona - [1973],4390,267.8
+Ferrari 365 California 4.4 V12 - [1966],4390,267.8
+BMW 3 Series M3 E92 GTS - [2010],4361,266.1
+BMW 3 Series M3 CRT E90 - [2011],4361,266.1
+Ferrari 430 Scuderia - [2007],4308,262.8
+Ferrari F430 4.3 V8 - [2004],4308,262.8
+Ferrari F430 4.3 V8 Spider - [2005],4308,262.8
+Ford Mustang 4th Gen Bullitt GT - [2001],4301,262.4
+Ferrari California 30 F1 4.3l V8 - [2012],4297,262.2
+Lexus GS 430 4.3 Auto - [2005],4293,261.9
+Lexus SC 430 4.3 - [2001],4293,261.9
+Ferrari California 4.3 V8 - [2008],4287,261.6
+Aston-Martin Vantage V8 - [2005],4281,261.2
+Aston-Martin Vantage V8 N400 - [2008],4281,261.2
+TVR Griffith 4.3 - [1992],4280,261.1
+Ford Falcon 1st Gen Sports Hardtop 260 V8 4-Speed - [1963],4267,260.3
+Mercedes CLK 430 4.3 V8 - [2001],4266,260.3
+Mercedes C Class 43 AMG - [1997],4266,260.3
+Maserati 4200 GT 4.2 V8 - [2003],4244,258.9
+Maserati GranSport 4.2 V8 - [2004],4244,258.9
+Maserati Quattroporte 4.2 V8 - [2004],4244,258.9
+Jaguar XJ S V12 - [1975],4235,258.4
+Jaguar E Type 2+2 4.2L - [1966],4235,258.4
+Jeep CJ-5 Renegade 4.2L - [1979],4235,258.4
+Jaguar Mark X 4.2L Overdrive - [1964],4235,258.4
+Land-Rover Range Rover Sport 4.2 V8 Supercharged - [2005],4197,256.1
+Jaguar S Type 4.2 V8 SE - [2002],4196,256.0
+Jaguar S Type 4.2 V8 R Auto - [2002],4196,256.0
+Jaguar XF 4.2 V8 Supercharged - [2009],4196,256.0
+Jaguar XJ R 4.2 V8 Supercharged - [2003],4196,256.0
+Jaguar XK R 4.2 V8 Supercharged - [2006],4196,256.0
+Jaguar XK R S 4.2 V8 Supercharged - [2008],4196,256.0
+Jaguar XJ 8 4.2 V8 - [2004],4196,256.0
+Mercedes E Class 400 W124 - [1993],4196,256.0
+TVR Cerbera 4.2 - [1996],4185,255.3
+Audi A6 4.2 Quattro - [1998],4172,254.5
+Audi A6 RS6 4.2T Quattro V8 - [2002],4172,254.5
+Audi A6 S6 4.2 Quattro - [1999],4172,254.5
+Audi A8 4.2 Quattro - [1999],4172,254.5
+Audi A6 RS6 Avant Plus 4.2L V8 Twin Turbo - [2004],4172,254.5
+Audi A6 RS6 Avant 4.2 V8 Twin Turbo - [2002],4172,254.5
+Audi V8 4.2 V8 Quattro - [1991],4172,254.5
+Audi A4 RS4 4.2 FSI Cabriolet - [2006],4165,254.1
+Audi A8 4.2 Quattro - [2006],4163,254.0
+Audi R8 4.2 FSI Quattro V8 - [2006],4163,254.0
+Audi A4 S4 4.2 Quattro - [2004],4163,254.0
+Audi A4 S4 4.2 Quattro Cabriolet - [2004],4163,254.0
+Audi A5 S5 4.2 Quattro - [2007],4163,254.0
+Gumpert Apollo 4.2L V8 Twin Turbo - [2005],4163,254.0
+Audi A5 RS5 4.2 Quattro - [2010],4163,254.0
+Audi A4 RS4 Avant 4.2L V8 - [2012],4163,254.0
+Audi A4 RS4 4.2 V8 - [2005],4163,254.0
+Audi A4 RS4 Avant 4.2 V8 - [2006],4163,254.0
+Audi A5 RS5 4.2 V8 Cabriolet - [2012],4163,254.0
+Volkswagen(VW) Touareg 4.2 V8 FSI - [2007],4163,254.0
+Audi Q7 4.2 V8 - [2005],4163,254.0
+Gumpert Apollo Enraged 4.2 V8 Turbo - [2012],4163,254.0
+Gumpert Apollo S 4.2 V8 Twin Turbo - [2009],4163,254.0
+Audi R8 4.2 V8 S-Tronic FSI Quattro - [2012],4163,254.0
+Audi R8 Spyder 4.2 V8 FSI Quattro S-Tronic - [2012],4163,254.0
+Maserati Indy Tipo 116 4.1L V8 - [1969],4136,252.3
+Audi Q7 4.2 TDi - [2007],4134,252.2
+Audi A8 4.2 TDi Quattro - [2013],4134,252.2
+Ferrari 340 Mexico - [1952],4102,250.3
+Porsche 9FF GT9 - [2008],4000,244.0
+Porsche 9FF GT9R - [2009],4000,244.0
+Volkswagen(VW) Passat 4.0 W8 4Motion - [2001],3999,244.0
+BMW 3 Series M3 Coupe Frozen Edition E92 - [2010],3999,244.0
+BMW 3 Series M3 GTR E46 - [2001],3997,243.9
+Aston-Martin DB5 1963 - [1963],3996,243.8
+Aston-Martin DB6 1965 - [1965],3996,243.8
+TVR Sagaris 4.0 - [2003],3996,243.8
+TVR Tuscan S 4.0 - [2001],3996,243.8
+Jaguar XK R Coupe 4.0 V8 Supercharged - [1998],3996,243.8
+Porsche 911 GT3 4.0 997 - [2011],3996,243.8
+Oldsmobile Aurora 4.0 V8 - [2001],3995,243.7
+Audi A8 S8 4.0 V8 Turbo - [2011],3993,243.6
+Audi A8 S8 4.0 V8 Turbo - [2012],3993,243.6
+Audi A6 RS6 Avant 4.0 V8 Twin Turbo - [2012],3993,243.6
+Audi A7 RS7 Sportback Twin Turbo - [2013],3993,243.6
+Bentley Continental V8 S - [2013],3993,243.6
+Audi A8 4.0 V8 TFSI Quattro - [2013],3993,243.6
+Audi A8 S8 4.0 V8 Turbo - [2013],3993,243.6
+Bentley Continental Flying Spur V8 - [2014],3993,243.6
+Jensen Interceptor 4.0 12v Cabriolet - [1949],3990,243.4
+Jensen 541 R 4.0 12v - [1957],3990,243.4
+BMW 7 Series 740i E32 - [1992],3982,242.9
+BMW 8 Series 840Ci 2d Auto - [1993],3982,242.9
+Lexus LS 400 4.0 V8 - [1989],3969,242.2
+Ferrari 330 GTC - [1966],3967,242.0
+Ferrari 330 GTS - [1966],3967,242.0
+TVR Chimaera 4.0 - [1992],3950,241.0
+Ford Thunderbird 4.0L V8 - [2001],3950,241.0
+Audi A8 4.0 TDI Quattro - [2003],3936,240.1
+Lamborghini Miura P4000 SV - [1971],3929,239.7
+Lamborghini Espada S II - [1969],3929,239.7
+Lamborghini 400 GT 2+2 3.9L V12 - [1965],3929,239.7
+Lamborghini Countach LP400S - [1977],3929,239.7
+Lamborghini Countach LP400 - [1974],3929,239.7
+Lamborghini Islero 3.9L V12 - [1968],3929,239.7
+Lamborghini Islero 400 GTS - [1969],3929,239.7
+Lamborghini Jarama 3.9 V12 - [1970],3929,239.7
+TVR 390 SE 3.9l V8 - [1985],3905,238.2
+Bentley Continental GT V8 - [2012],3883,236.9
+Pontiac G6 GTP 3.9 V6 - [2006],3880,236.7
+Chevrolet Corvette C1 235 Convertible - [1953],3859,235.4
+Ferrari California T 3.9 V8 Turbo - [2014],3855,235.2
+Mitsubishi Eclipse GT 3.8 V6 - [2008],3828,233.5
+Studebaker Commander 3.8 V8 Coupe - [1953],3809,232.4
+Nissan Skyline R35 GTR - [2007],3800,231.8
+Porsche 911 Carrera S Cabriolet 997 - [2008],3800,231.8
+Porsche 911 GT3 3.8 991 - [2013],3800,231.8
+Porsche 911 3.8 Speedster - [2010],3800,231.8
+Porsche 911 50 Years 911 Edition - [2013],3800,231.8
+Porsche 911 Turbo 991 - [2013],3800,231.8
+Porsche 911 Turbo S 991 - [2013],3800,231.8
+Porsche 911 Carrera 4S 991 - [2012],3800,231.8
+Porsche 911 Carrera 4S Cabriolet 991 - [2012],3800,231.8
+Porsche 911 Carrera S 991 - [2011],3800,231.8
+Porsche 911 Carrera S Cabriolet 991 - [2011],3800,231.8
+Porsche 911 Carrera 4 S PDK 991 - [2012],3800,231.8
+Porsche 911 Carrera S PDK 991 - [2011],3800,231.8
+Porsche 911 Turbo 997 - [2009],3800,231.8
+Porsche 911 Turbo S 997 - [2010],3800,231.8
+Porsche 911 Targa 4S 991 - [2014],3800,231.8
+Nissan Skyline GT-R Spec V - [2009],3799,231.8
+McLaren MP4-12C 3.8L V8 Twin Turbo - [2011],3799,231.8
+Nissan Skyline GTR R35 - [2012],3799,231.8
+Maserati Quattroporte 3.8 V8 - [2012],3799,231.8
+McLaren P1 3.8 V8 Hybrid - [2013],3799,231.8
+McLaren MP4-12C 3.8 V8 Twin Turbo Spider - [2012],3799,231.8
+McLaren MP4-12C 3.8L V8 Twin Turbo - [2012],3799,231.8
+McLaren 650S 3.8 V8 Twin Turbo - [2014],3799,231.8
+McLaren 650S Spider 3.8 V8 Twin Turbo - [2014],3799,231.8
+Ford Thunderbird 3.8 V6 Supercharged 10th Gen - [1989],3797,231.7
+BMW 5 Series M5 E34 - [1992],3795,231.5
+Buick Regal GNX 3.8 V6 Turbo - [1987],3791,231.3
+Jaguar E Type 3.8L Roadster - [1961],3781,230.7
+Jaguar E Type 3.8l Coupe - [1961],3781,230.7
+Pontiac Firebird Sprint 3.8L - [1967],3770,230.0
+Pontiac Tempest Le Mans Sprint - [1966],3770,230.0
+Bentley Continental R 6.8 V8 Turbo - [1991],3750,228.8
+Ginetta G60 3.7 V6 - [2011],3726,227.3
+Infiniti G37 3.7 V6 S - [2009],3696,225.5
+Nissan 370Z 3.7 V6 Roadster - [2009],3696,225.5
+Nissan 370Z Nismo - [2009],3696,225.5
+Infiniti FX 37 3.7 V6 - [2011],3696,225.5
+Aston-Martin DB4 1958 - [1958],3670,223.9
+Aston-Martin DB4 GT Zagato - [1959],3670,223.9
+Aston-Martin DB4 GT - [1959],3670,223.9
+Land-Rover Range Rover Sport 3.6 TDV8 - [2006],3630,221.5
+Lotus Carlton 3.6 Turbo - [1990],3615,220.6
+Mercedes C Class 36 AMG - [1993],3606,220.0
+TVR T350 C 3.6 - [2003],3605,219.9
+TVR T350 T 3.6 - [2004],3605,219.9
+Dodge Charger SXT Blacktop 3.6L V6 - [2012],3605,219.9
+Porsche Panamera 3.6 V6 - [2013],3605,219.9
+Porsche Macan 3.6 Turbo - [2013],3605,219.9
+Porsche 911 Carrera 2 - [1998],3600,219.6
+Porsche 911 GT3 RS 996 - [2003],3600,219.6
+Porsche 911 GT2 997 - [2007],3600,219.6
+Porsche 911 GT3 997 - [2007],3600,219.6
+Porsche 911 GT2 996 - [2004],3600,219.6
+Porsche 911 GT3 996 - [2003],3600,219.6
+Porsche 911 GT3 RS 997 - [2006],3600,219.6
+Porsche 911 Turbo 993 - [1995],3600,219.6
+Porsche 911 Turbo 996 - [2000],3600,219.6
+Porsche 911 Turbo 997 - [2006],3600,219.6
+TVR Tamora 3.6 - [2002],3600,219.6
+Porsche 911 GT2 996 - [2000],3600,219.6
+Porsche 911 Turbo S 993 - [1998],3600,219.6
+Porsche 911 GT2 RS 997 - [2010],3600,219.6
+Porsche 911 Turbo S 996 - [2004],3600,219.6
+Porsche 911 GT2 993 - [1995],3600,219.6
+Volkswagen(VW) Passat R36 3.6 V6 - [2008],3598,219.5
+Porsche 911 Carrera 4 996 - [2002],3596,219.4
+Jaguar XJ S 3.6 Coupe - [1983],3590,219.0
+Ferrari 360 Challenge Stradale - [2003],3586,218.8
+Ferrari 360 Modena F1 - [1999],3586,218.8
+Cadillac CTS 3.6 V6 Sport 4d Auto - [2008],3564,217.4
+MG B GT V8 - [1973],3532,215.5
+Triumph TR8 3.5 V8 - [1978],3532,215.5
+Rover SD1 Vitesse 3.5L V8 - [1984],3532,215.5
+Rover P5 B 3.5 V8 - [1967],3528,215.2
+Rover P5 B 3.5 V8 Coupe - [1967],3528,215.2
+Lotus Esprit S4 3.5 V8 Turbo - [1996],3506,213.9
+AC Cobra 212 S/C - [2001],3506,213.9
+BMW M1 3.5 2d Manual - [1978],3500,213.5
+Mercedes SLC 350 C107 - [1971],3499,213.5
+Mercedes 300 SEL 3.5 - [1969],3499,213.5
+Bugatti EB110 SuperSport - [1992],3498,213.4
+Infiniti G35 Sport Coupe - [2002],3498,213.4
+Infiniti G35 3.5 V6 X - [2006],3498,213.4
+Jaguar XJ 220 - [1991],3498,213.4
+Mercedes SLK Class 350 Auto - [2008],3498,213.4
+Nissan 350Z Coupe - [2003],3498,213.4
+Nissan 350Z Roadster 300bhp - [2006],3498,213.4
+Nissan 350Z 300 GT Coupe - [2003],3498,213.4
+Nissan Altima Coupe 3.5 SE - [2008],3498,213.4
+Mitsubishi Pajero,Shogun Evolution 3.5 V6 - [1997],3497,213.4
+Ferrari 355 F1 Berlinetta - [1997],3496,213.3
+Ford Taurus SHO 3.5 V6 - [2009],3496,213.3
+Ford Taurus SHO 3.5 V6 Performance Pack - [2013],3496,213.3
+Ford Taurus AWD 3.5 V6 - [2007],3496,213.3
+Nissan R390 3.5L V8 - [1997],3495,213.2
+Caparo T1 3.5l V8 - [2007],3494,213.2
+Jaguar Mark V 3.5L - [1949],3486,212.7
+Honda Accord Coupe EX-L - [2008],3471,211.8
+Lamborghini 350 GT 3.5L V12 - [1964],3464,211.3
+Lexus IS 350 3.5 V6 - [2006],3456,210.8
+Lotus Evora 3.5 V6 - [2009],3456,210.8
+Lotus Exige S 3.5 V6 Roadster - [2012],3456,210.8
+Lotus Exige S 3.5 V6 - [2012],3456,210.8
+Lotus Evora GTE 3.5 V6 - [2012],3456,210.8
+Lotus Evora S IPS 3.5 V8 - [2011],3456,210.8
+Toyota Aurion TRD 3.5 V6 - [2007],3456,210.8
+Lexus IS 350 - [2013],3456,210.8
+Lexus ES 350 - [2012],3456,210.8
+Lexus GS 350 - [2011],3456,210.8
+Lexus GS 350 - [2008],3456,210.8
+BMW 5 Series M5 E28 - [1985],3453,210.7
+BMW 6 Series M635 CSi E24 - [1984],3453,210.7
+BMW 5 Series M535i E12 - [1980],3453,210.7
+Jaguar XK 120 Roadster - [1948],3442,210.0
+Jaguar XK 120 SE FHC - [1948],3442,210.0
+Jaguar XK 140 Roadster - [1955],3442,210.0
+Jaguar XK 150 SE Fixed Head Coupe - [1957],3442,210.0
+Jaguar D Type 3.4L - [1954],3442,210.0
+Jaguar Mark VII 3.4L - [1950],3442,210.0
+Jaguar XK 120 DHC - [1953],3442,210.0
+Jaguar XK 140 SE - [1954],3442,210.0
+Jaguar Mark VII 3.4L 12v - [1954],3442,210.0
+Jaguar Mark VII M 3.4L - [1955],3442,210.0
+Jaguar C Type 3.4L - [1951],3442,210.0
+Porsche Cayman S 3.4 - [2009],3436,209.6
+Porsche Boxster S 3.4L - [2012],3436,209.6
+Porsche Cayman S 3.4l - [2012],3436,209.6
+Porsche 911 Carrera 4 991 - [2012],3436,209.6
+Porsche 911 Targa 4 991 - [2014],3436,209.6
+Porsche Boxster GTS - [2014],3436,209.6
+Porsche Boxster GTS PDK - [2014],3436,209.6
+Porsche Boxster S PDK - [2012],3436,209.6
+Porsche Cayman GTS 3.4L - [2014],3436,209.6
+Porsche Cayman GTS PDK 3.4L - [2014],3436,209.6
+Ferrari Mondial t - [1990],3405,207.7
+Ferrari 348 tb - [1989],3405,207.7
+Porsche 911 Carrera 996 - [1997],3387,206.6
+Porsche Cayman S 3.4 Turbo - [2005],3387,206.6
+Porsche 911 Carrera 4 996 - [1998],3387,206.6
+Porsche 911 Ruf CTR Yellow Bird - [1987],3366,205.4
+BMW Alpina Z4 Roadster S - [2004],3346,204.1
+Porsche 911 Turbo SE 930 - [1986],3299,201.3
+Porsche 911 Turbo - [1977],3299,201.3
+Ferrari 275 GTB 3.3 V12 - [1963],3286,200.5
+Ferrari 275 GTS 3.3 V12 - [1965],3286,200.5
+BMW Z3 Roadster - [2001],3246,198.0
+BMW 3 Series M3 CSL 2d SMG E46 - [2003],3246,198.0
+BMW 3 Series M3 SMG 2d E46 - [2001],3246,198.0
+BMW Z4 3.2 M Coupe 2d - [2006],3246,198.0
+BMW Z4 3.2 M Roadster 2d - [2006],3246,198.0
+Aston-Martin DB7 3.2 V6 - [1993],3239,197.6
+Fiat 130 3.2 V6 Coupe - [1971],3235,197.4
+Maserati 3200 GT FH 3.2 Turbo - [1998],3217,196.3
+Maserati Shamal 3.2L V8 BiTurbo - [1992],3217,196.3
+BMW Z3 M Coupe 3.2 2d - [1998],3201,195.3
+BMW 3 Series M3 Evolution E36 - [1996],3201,195.3
+Chrysler Crossfire 3.2 V6 2d - [2003],3199,195.2
+Chrysler Crossfire 3.2 V6 SRT-6 2d Auto - [2004],3199,195.2
+Mercedes C Class 32 AMG - [2001],3199,195.2
+Alfa-Romeo Brera 3.2 V6 Qtronic - [2006],3195,194.9
+Alfa-Romeo Spider 3.2 V6 Q4 - [2007],3195,194.9
+Alfa-Romeo 159 3.2 V6 Q4 - [2005],3195,194.9
+Alfa-Romeo Brera JTS 3.2 V6 24v - [2010],3195,194.9
+Audi TT 3.2 V6 Quattro S-Line - [2009],3189,194.6
+Audi TT 3.2 V6 Quattro - [2004],3189,194.6
+Volkswagen(VW) Golf R32 - [2002],3189,194.6
+Volkswagen(VW) Golf R32 - [2005],3189,194.6
+Volkswagen(VW) Beetle RSi 3.2 V6 - [2000],3189,194.6
+Ferrari Mondial 3.2l V8 - [1986],3186,194.4
+Ferrari 328 GTB 3.2 V8 - [1986],3186,194.4
+Ferrari 328 GTS 3.2 V8 - [1986],3186,194.4
+Alfa-Romeo 147 GTA - [2002],3179,193.9
+Alfa-Romeo 166 3.2 V6 04-05 - [1999],3179,193.9
+Alfa-Romeo 156 GTA 3.2 V6 - [2002],3179,193.9
+Alfa-Romeo GT 3.2 V6 Lusso - [2004],3179,193.9
+Alfa-Romeo GTV 3.2 V6 Lusso - [1996],3179,193.9
+Honda NSX 3.2 V6 - [1998],3179,193.9
+Porsche Boxster 3.2 S 260 - [1999],3179,193.9
+Honda NSX R 3.2 V6 - [2002],3179,193.9
+Lancia Thesis 3.2 V6 24v Comfortronic - [2003],3179,193.9
+Alfa-Romeo GTV 3.2 V6 24v - [2003],3179,193.9
+Alfa-Romeo 156 GTA 3.2 V6 Sportwagon - [2002],3179,193.9
+Honda NSX T 3.2 V6 - [1997],3179,193.9
+Vauxhall-Opel Vectra 3.2 V6 GSi - [2002],3175,193.7
+Vauxhall-Opel Omega 3.2 V6 Automatic - [2000],3175,193.7
+BMW 507 3.2 V8 - [1956],3169,193.3
+BMW 3200 CS Coupe - [1962],3169,193.3
+Porsche 911 Carrera - [1984],3164,193.0
+Ford Capri RS 3100 - [1973],3093,188.7
+Subaru Legacy 3.0 R Spec B - [2005],3000,183.0
+Ariel Atom V8 500 - [2008],3000,183.0
+Toyota Supra 3.0 Turbo - [1993],2997,182.8
+Toyota Supra 3.0 Turbo Auto - [1993],2997,182.8
+Triumph Stag 3.0 V8 Convertible Mk1 - [1970],2997,182.8
+Triumph Stag 3.0 V8 Convertible Mk2 - [1977],2997,182.8
+Porsche Macan S 3.0 V6 Twin Turbo - [2013],2997,182.8
+BMW 3 Series 325i Saloon E46 - [2006],2996,182.8
+BMW 3 Series 330i M-Sport Manual E90 - [2005],2996,182.8
+BMW Z4 3.0si Sport 2d - [2006],2996,182.8
+Lamborghini Urraco 3.0L V8 P300 - [1974],2996,182.8
+Mercedes 300 SL Gullwing Coupe - [1954],2996,182.8
+Mercedes 300 SL II Roadster W198 - [1957],2996,182.8
+Mercedes SL Class 300SL Roadster W198 - [1961],2996,182.8
+Mercedes SL Class 300SL Roadster W198 - [1957],2996,182.8
+Mercedes SL Class 300SL Gullwing W198 - [1955],2996,182.8
+Mercedes 300 S Roadster - [1951],2996,182.8
+Audi A5 S5 3.0 Quattro Cabriolet - [2009],2995,182.7
+Rover P5 Mk1/1A - [1958],2995,182.7
+Audi A7 3.0 TFSI Quattro - [2010],2995,182.7
+Audi A8 3.0 TFSI Quattro - [2010],2995,182.7
+Audi A4 S4 3.0L V6 Supercharged - [2012],2995,182.7
+Audi A4 S4 3.0 V6 - [2008],2995,182.7
+Porsche Panamera S E Hybrid 3.0 V6 - [2013],2995,182.7
+Toyota Camry 3.0 V6 - [2002],2995,182.7
+Audi A4 S4 3.0 V6 - [2014],2995,182.7
+Audi A4 S4 3.0 V6 S-Tronic - [2014],2995,182.7
+Ford Capri 3000E GT - [1970],2994,182.7
+Rover P5 MkII/III - [1962],2994,182.7
+Ford Granada 3.0 V6 - [1976],2994,182.7
+Ford Capri 3000S X Pack - [1978],2994,182.7
+Porsche 911 SC - [1980],2994,182.7
+Porsche 911 Carrera 3.0 - [1976],2994,182.7
+BMW 3 Series 330d Sports Saloon E46 - [1998],2993,182.6
+BMW 5 Series 535d M-Sport Saloon Auto E60 - [2004],2993,182.6
+Jaguar XF 3.0d V6 Auto - [2009],2993,182.6
+BMW 3 Series 335d E90 - [2010],2993,182.6
+Jaguar XF 3.0D S - [2011],2993,182.6
+Jaguar XJ 3.0D V6 600 LWB - [2009],2993,182.6
+BMW 5 Series 530d E60 - [2003],2993,182.6
+Infiniti FX 30d 3.0 V6 Diesel - [2011],2993,182.6
+BMW X5 M50d 3.0 Diesel Turbo - [2013],2993,182.6
+BMW X5 3.0d - [2003],2993,182.6
+BMW 5 Series M550d xDrive F10 - [2013],2993,182.6
+BMW X6 M50d E71 - [2012],2993,182.6
+Volvo S80 T6 3.0 Turbo - [2003],2992,182.5
+BMW 3 Series M3 E36 - [1993],2990,182.4
+Porsche 968 3.0 Turbo - [1992],2990,182.4
+Porsche 968 Club Sport - [1993],2990,182.4
+BMW 3 Series M3 GT E36 - [1995],2990,182.4
+Porsche 968 3.0 Turbo S - [1993],2990,182.4
+Ford Taurus 3.0 V6 SHO - [1988],2986,182.2
+Ford Taurus 3.0 V6 SHO - [1992],2986,182.2
+Toyota Land Cruiser 3.0 TD - [1994],2982,181.9
+BMW 1 Series 135i 2d Coupe M-Sport - [2007],2979,181.7
+BMW 3 Series 335i M-Sport 2d E90 - [2006],2979,181.7
+BMW 5 Series 530i Saloon E39 - [1996],2979,181.7
+BMW Alpina B3 3.0 Bi Turbo - [2006],2979,181.7
+BMW Z4 35i sDrive 2d - [2009],2979,181.7
+BMW 3 Series 335i F30 - [2011],2979,181.7
+BMW 3 Series 330ci E46/2 - [2006],2979,181.7
+BMW 3 Series 330ci E46 - [2001],2979,181.7
+BMW 1 Series M135i F20 - [2012],2979,181.7
+Maserati Ghibli S Q4 3.0 V6 Turbo - [2013],2979,181.7
+Maserati Ghibli S 3.0 V6 Turbo - [2013],2979,181.7
+BMW 3 Series 335i Gran Turismo F34 - [2013],2979,181.7
+BMW 4 Series 435i Coupe F32 - [2013],2979,181.7
+BMW 3 Series M3 F80 - [2013],2979,181.7
+BMW 4 Series M4 - [2013],2979,181.7
+BMW 4 Series M4 Cabriolet F83 - [2014],2979,181.7
+Honda NSX 3.0 V6 Auto - [1998],2977,181.6
+Honda NSX R 3.0 V6 - [1995],2977,181.6
+Honda NSX 3.0 V6 - [1990],2977,181.6
+Audi A4 3.0 V6 Quattro - [2000],2976,181.6
+Renault Alpine A610 3.0 V6 Turbo - [1992],2975,181.5
+Citroen XM 3.0 V6 - [1989],2975,181.5
+Alpine A610 3.0 V6 - [1991],2975,181.5
+Mitsubishi 3000 GT - [1992],2972,181.3
+Mitsubishi 3000 GT VR-4 - [1994],2972,181.3
+Vauxhall-Opel Omega Evolution 500 - [2000],2969,181.1
+Vauxhall-Opel Monza GSE 3.0 - [1985],2969,181.1
+Jaguar X Type 3.0 V6 Sport - [2001],2968,181.1
+Noble M12 GTO 3R - [2003],2968,181.1
+Noble M400 3.0 V6 - [2004],2968,181.1
+Audi A5 3.0tdi Quattro Cabriolet - [2009],2967,181.0
+Ford Mondeo ST220 - [2002],2967,181.0
+Jaguar S Type 3.0 V6 Sport - [2001],2967,181.0
+Porsche Cayenne 3.0 V6 Turbo Diesel - [2009],2967,181.0
+Audi A7 3.0 TDI 310 - [2011],2967,181.0
+Audi A5 Sportback 3.0 TDI - [2011],2967,181.0
+Jaguar XJ V6 - [2012],2967,181.0
+Porsche Panamera 3.0 V6 Turbo Diesel - [2011],2967,181.0
+Audi A6 3.0 TDI Quattro - [2012],2967,181.0
+Porsche Panamera Diesel 3.0 V6 Turbo - [2013],2967,181.0
+Porsche Macan 3.0 Diesel S Sport - [2013],2967,181.0
+Ferrari 250 Europa - [1954],2963,180.8
+Nissan 300ZX 3.0 V6 Turbo - [1990],2960,180.6
+Nissan 300ZX Version S Twin Turbo - [1998],2960,180.6
+Nissan 300ZX 3.0 V6 Turbo - [1984],2960,180.6
+Alfa-Romeo GTV 3.0 V6 Lusso - [1996],2959,180.5
+Alfa-Romeo 75 3.0 V6 - [1987],2959,180.5
+Lancia Kappa 3.0 V6 - [1994],2959,180.5
+Alfa-Romeo 164 3.0 V6 Quadrifoglio - [1993],2959,180.5
+Alfa-Romeo 164 3.0 V6 Cloverleaf - [1990],2959,180.5
+Toyota Supra 3.0 Turbo - [1988],2954,180.2
+Volvo XC60 3.0T - [2008],2953,180.2
+Ferrari 250 GTO - [1962],2953,180.2
+Ferrari 250 GT 3.0L V12 - [1959],2953,180.2
+Volvo S60 T6 3.0 Turbo - [2013],2953,180.2
+Volvo S60 Polestar - [2013],2953,180.2
+Peugeot 407 3.0 V6 Coupe - [2005],2946,179.7
+Renault Clio 3.0 V6 255 - [2001],2946,179.7
+Renault Clio 3.0 V6 230 - [2002],2946,179.7
+Citroen XM 3.0 V6 - [1998],2946,179.7
+Ferrari F40 2.9 V8 - [1987],2936,179.1
+Ford Granada Scorpio Cosworth - [1991],2935,179.1
+Ford Sierra XR4X4 - [1989],2933,178.9
+Lancia Thema 2.9 V8 8.32 - [1986],2927,178.6
+Ferrari 308 GTB - [1975],2927,178.6
+Ferrari 308 GT/4 3.0L V8 - [1973],2927,178.6
+Ferrari 308 GTS QV 3.0l V8 - [1982],2927,178.6
+Ferrari 308 GTB QV 3.0l V8 - [1982],2927,178.6
+Aston-Martin 2/4 MK III Special - [1957],2922,178.3
+Aston-Martin 2/4 MK II - [1955],2922,178.3
+Austin-Healey 3000 MKIII BJ8 - [1964],2912,177.7
+Volkswagen(VW) Corrado 2.9 VR6 - [1992],2861,174.5
+Ferrari 288 GTO - [1984],2855,174.2
+DeLorean DMC -12 - [1981],2849,173.8
+Porsche 959 Turbo - [1987],2849,173.8
+Peugeot 505 2.8 V6 - [1986],2849,173.8
+Peugeot 604 GTi 2.8 V6 - [1984],2849,173.8
+BMW 3 Series 328CI Saloon E46 - [1998],2798,170.7
+BMW 3 Series 328i Saloon E46 - [1998],2793,170.4
+BMW 5 Series 528i Saloon E39 - [1999],2793,170.4
+BMW Z3 2.8i Roadster - [1999],2793,170.4
+BMW Z3 E36 2.8L Roadster - [1996],2793,170.4
+Ford Capri 2.8i - [1981],2792,170.3
+Saab 9-3 2.8t Aero Convertible - [2008],2792,170.3
+Saab 9-3 2.8 V6 Aero - [2006],2792,170.3
+Vauxhall-Opel Vectra 2.8T V6 VXR - [2007],2792,170.3
+Volkswagen(VW) Golf 2.8 VR6 4MOTION - [1997],2792,170.3
+Volkswagen(VW) Golf 2.8 VR6 - [1991],2792,170.3
+Ford Capri Tickford Turbo - [1983],2792,170.3
+Ford Sierra XR4i 2.8L V6 - [1984],2792,170.3
+Ford Granada Scorpio 4x4 2.8 V6 - [1986],2792,170.3
+Ford Granada 2.8i V6 - [1982],2792,170.3
+Vauxhall-Opel Insignia VXR OPC 2.8 V6 BiTurbo - [2010],2792,170.3
+Volkswagen(VW) Vento 2.8 VR6 - [1992],2792,170.3
+Maserati 430 2.8 V6 - [1988],2790,170.2
+Maserati 222 E 2.8 V6 BiTurbo - [1988],2790,170.2
+Mercedes SL Class 280SL W113 - [1970],2778,169.5
+Mercedes SL Class 280SL W113 - [1967],2778,169.5
+Audi A4 2.8 Quattro - [1996],2771,169.0
+Audi 80 2.8 E V6 Quattro - [1991],2771,169.0
+Datsun 280 ZX - [1979],2753,167.9
+Jaguar S Type 2.7d V6 Sport - [2004],2720,165.9
+Audi A4 S4 2.7T Quattro - [1997],2716,165.7
+Porsche Cayman 2.7l - [2012],2706,165.1
+Porsche Boxster 2.7 Roadster - [1999],2687,163.9
+Porsche Cayman 2.7 - [2006],2687,163.9
+Porsche 911 Carrera 2.7 RS - [1972],2687,163.9
+Porsche 944 2.7 - [1988],2681,163.6
+Audi A4 RS4 Avant 2.7T Quattro V6 - [2000],2671,162.9
+Citroen SM 2.7L V6 - [1970],2670,162.9
+Talbot Tagora SX 2.7 V6 - [1982],2664,162.5
+Alpine A310 2.7 V6 - [1976],2664,162.5
+Peugeot 504 2.7 V6 - [1974],2664,162.5
+Austin-Healey 100 M BN2 2.6L - [1955],2660,162.3
+Austin-Healey 100 BN1 - [1953],2660,162.3
+Hyundai Coupe 2.7 V6 - [2001],2657,162.1
+Austin-Healey 100 SIX BN4 - [1956],2639,161.0
+Ford Capri Mk1 RS2600 - [1971],2637,160.9
+Mazda RX7 RZ - [1998],2616,159.6
+Mazda RX7 Type-R Bathurst - [2002],2616,159.6
+Noble M12 GTO 2.6 V6 Turbo - [2001],2595,158.3
+Alfa-Romeo Montreal 2.6 V8 Coupe - [1970],2594,158.2
+Aston-Martin DB2 2.6L - [1950],2580,157.4
+Nissan Skyline R33 GTR - [1993],2569,156.7
+Nissan Skyline R34 GTR - [1999],2569,156.7
+Nissan Skyline R32 GTR - [1990],2569,156.7
+Ferrari 212 Export - [1951],2562,156.3
+Ford Mondeo ST24 - [1997],2544,155.2
+Ford Focus 2.5 RS - [2009],2522,153.9
+Ford Focus 2.5 ST-2 - [2005],2521,153.8
+Volvo C30 2.5T 230bhp R Design - [2007],2521,153.8
+Volvo C70 2.5 T5 Coupe Convertible Sport - [2006],2521,153.8
+Volvo S40 2.5 T5 Sport - [2003],2521,153.8
+Volvo S40 2.5 T5 AWD - [2006],2521,153.8
+Volvo S60 2.5R - [2003],2521,153.8
+Ford Focus RS500 - [2010],2521,153.8
+Volvo S40 T5 2.5 Turbo AWD - [2007],2521,153.8
+MG ZS 2.5 V6 180 - [2001],2500,152.5
+Citroen CX 25 GTi Turbo - [1984],2500,152.5
+Lexus IS 250 AWD - [2007],2499,152.4
+Mercedes 190 Series E 2.5 16 - [1989],2498,152.4
+Mitsubishi Galant VR4 Type S - [2000],2498,152.4
+Triumph TR6 2.5L - [1969],2498,152.4
+Triumph TR5 2.5L - [1967],2498,152.4
+Nissan Skyline R33 GTS25t Coupe - [1993],2498,152.4
+Marcos Mantis 2.5l Coupe - [1970],2498,152.4
+Triumph 2500 TC - [1976],2498,152.4
+MG ZT 2.5 V6 190 - [2001],2497,152.3
+Volvo S60 T5 2.5 Turbo - [2013],2497,152.3
+Volvo V40 T5 2.5 Turbo - [2012],2497,152.3
+Mercedes 200 W114 Sedan Serie 1 - [1967],2496,152.3
+Ford Mondeo ST200 - [1999],2495,152.2
+BMW 3 Series 325i Sport Manual E30 - [1986],2494,152.1
+Alfa-Romeo 156 2.5 V6 - [1997],2492,152.0
+Alfa-Romeo GTV 6 2.5 - [1981],2492,152.0
+Toyota Mark II 2.5 Tourer V - [1998],2492,152.0
+Alfa-Romeo 90 2.5 V6 Gold Cloverleaf - [1985],2492,152.0
+Maserati 425 2.5L V6 BiTurbo Saloon - [1984],2491,152.0
+Vauxhall-Opel Vectra 2.5 V6 GSi - [2000],2490,151.9
+Porsche Boxster 2.5 Roadster - [1996],2480,151.3
+Audi TT RS+ 2.5 Turbo - [2012],2480,151.3
+Audi A3 RS3 Sportback 2.5 Turbo - [2010],2480,151.3
+Porsche 944 Turbo - [1989],2479,151.2
+Porsche 944 Turbo - [1984],2479,151.2
+Porsche 944 Turbo Cabriolet - [1991],2479,151.2
+Lamborghini Urraco 2.5L V8 P250 - [1972],2463,150.3
+Lancia Flaminia Coupe 3 B 2.5 GT - [1963],2458,149.9
+Alpine GTA V6 Turbo - [1985],2458,149.9
+Renault 25 2.5 V6 Turbo - [1985],2458,149.9
+Subaru Impreza RB320 - Hawkeye - [2007],2457,149.9
+Subaru Impreza WRX STI Type UK - Hawkeye - [2006],2457,149.9
+Subaru Impreza WRX STI 330S - Hatch - [2008],2457,149.9
+Subaru Impreza WRX - Hatch - [2008],2457,149.9
+Subaru Impreza WRX S - [2008],2457,149.9
+Subaru Impreza STI CS 400 - Cosworth - Hatch - [2010],2457,149.9
+Subaru Impreza WRX STI 320R - Saloon - [2011],2457,149.9
+Subaru Forester STi (tS) 2.5L Turbo - [2012],2457,149.9
+Subaru Forester STi 2.5L Turbo - [2006],2457,149.9
+Fiat Stilo Abarth 2.4 20v - [2001],2446,149.2
+Dodge Neon 2.4 SRT-4 - [2002],2429,148.2
+Lancia Stratos 2.5 V6 - [1974],2419,147.6
+Ferrari 246 Dino GT - [1969],2419,147.6
+Caparo T1 2.4 V8 - [2006],2408,146.9
+Volvo S60 T5 2.4 Turbo - [2000],2401,146.5
+Caterham 7 RST-V8 Levante - [2008],2400,146.4
+Datsun 240 Z Coupe - [1969],2393,146.0
+Alfa-Romeo 156 2.4 JTD - [2003],2387,145.6
+Alfa-Romeo Brera 2.4 JTDm - [2006],2387,145.6
+Pontiac Solstice Coupe 2.4 16V - [2006],2384,145.4
+Ferrari 195 Inter - [1950],2341,142.8
+Volkswagen(VW) Golf 2.3 V5 - [2001],2324,141.8
+Volvo 850 2.3 T5 R - [1995],2319,141.5
+Volvo 940 2.3 Turbo - [1990],2316,141.3
+Volvo 242 GT 2.3 - [1979],2316,141.3
+Audi 80 2.3 20v Quattro - [1989],2309,140.9
+Mercedes SL Class 230SL W113 - [1963],2308,140.8
+BMW 3 Series M3 E30 - [1986],2302,140.4
+BMW 3 Series M3 Evolution E30 - [1988],2302,140.4
+Mercury Zephyr Z-7 Sports Coupe - [1978],2301,140.4
+Ford Thunderbird 2.3 Turbo 9th Gen - [1987],2301,140.4
+Mercedes 190 Series E 2.3-16 - [1987],2299,140.2
+Mercedes 230 CE - [1981],2299,140.2
+Ford Cortina MKV 2.3 Ghia - [1977],2294,139.9
+Mazda RX7 SA22C - [1978],2292,139.8
+Saab 9-3 Viggen 2.3L Turbo - [2001],2290,139.7
+Chevrolet Vega 2300 GT 4 Speed - [1971],2287,139.5
+Vauxhall-Opel Firenza Droop Snoot 2.3 Litre - [1973],2279,139.0
+Vauxhall-Opel Chevette 2300 HS - [1978],2279,139.0
+Ford Zephyr 2.2 12v - [1950],2262,138.0
+Caterham 7 CSR 260 - [2005],2261,137.9
+Mazda 3 MPS 2.3T - [2007],2261,137.9
+Mazda 6 MPS 2.3T - [2007],2261,137.9
+BAC Mono 280bhp - [2011],2261,137.9
+Mazda 3 2.3 Mazdaspeed - [2011],2261,137.9
+Mazda 6 Sport MZR 2.3i - [2001],2261,137.9
+Oldsmobile Cutlass Calais HO Quad 4 - [1989],2260,137.9
+Audi Coupe S2 2.2T Quattro - [1993],2226,135.8
+Audi Coupe S2 2.2T Quattro - [1991],2226,135.8
+Audi Quattro 2.2T - [1990],2226,135.8
+Audi 100 2.2 Turbo Quattro - [1986],2226,135.8
+Audi 200 2.2T 20v Quattro - [1989],2226,135.8
+Subaru Impreza WRX STI - Classic 22B - [1998],2212,134.9
+Vauxhall-Opel Astra 2.2 16V - [2003],2198,134.1
+Citroen C5 2.2 HDi 16v - [2001],2197,134.0
+Lotus Esprit S2.2 Turbo - [1980],2174,132.6
+Lotus Esprit S3 2.0L - [1981],2174,132.6
+Lotus Esprit S3 Turbo SE - [1989],2174,132.6
+Lotus Excel SA 2.2 16v - [1986],2174,132.6
+Lotus Excel SE 2.2 16v - [1985],2174,132.6
+Honda Accord 2.2 16V Type R - [1999],2157,131.6
+Honda S2000 2.2i - [2004],2157,131.6
+Honda S2000 2.2 Type S - [2007],2157,131.6
+Peugeot 505 2.2 GTi Turbo - [1979],2155,131.5
+Audi Quattro UR-Quattro - [1980],2144,130.8
+Audi 200 2.1 Turbo Quattro - [1985],2144,130.8
+Triumph TR4 2.1L - [1961],2138,130.4
+Audi Quattro Sport 2.2 T - [1984],2134,130.2
+Ford Granada 2.1 Diesel - [1977],2112,128.8
+Caterham 7 Superlight R400 - [2006],1999,121.9
+Caterham 7 Superlight R500 - [2009],1999,121.9
+Ford Fiesta ST - [2005],1999,121.9
+Ford Fiesta ST185 - [2009],1999,121.9
+Mazda MX5 2.0i Roadster Coupe - [2009],1999,121.9
+Subaru Impreza RB5 - Classic - [1999],1999,121.9
+Ford Focus 2.0 ST-3 - [2011],1999,121.9
+Ginetta G40 R 2.0L - [2011],1999,121.9
+Mastretta MXT 2.0 Turbo - [2010],1999,121.9
+Ford Focus Wagon ST - [2011],1999,121.9
+Land-Rover Evoque 2.0 Si4 - [2010],1999,121.9
+Caterham 7 620 R 2.0 L Supercharged - [2013],1999,121.9
+Caterham 7 485 2.0L - [2013],1999,121.9
+Ariel Atom 300 Supercharged - [1999],1998,121.9
+Chevrolet Cobalt SS 2.0 Supercharged - [2006],1998,121.9
+Fiat Bravo 2.0 20V 155 HGT - [1997],1998,121.9
+Fiat Coupe 2.0 20V Turbo - [1996],1998,121.9
+Ford Escort RS 2000 4x4 MK5 - [1991],1998,121.9
+Honda Civic 2.0 VTEC Type R - [2004],1998,121.9
+Honda Civic 2.0 VTEC Type R EDM - [2001],1998,121.9
+Honda Civic Type R JDM - [2001],1998,121.9
+Honda Civic Type R JDM - [2004],1998,121.9
+Honda Civic 2.0i VTEC GT Type R - [2007],1998,121.9
+Honda Civic 2.0i VTEC Type S - [2000],1998,121.9
+Honda Integra 2.0i VTEC Type R DC5 - [2001],1998,121.9
+Lotus Europa S 2.0 Turbo - [2006],1998,121.9
+Lotus Europa SE 2.0 Turbo - [2008],1998,121.9
+Mitsubishi FTO 2.0 GPX - [2000],1998,121.9
+Mitsubishi Lancer Evo X RS - [2008],1998,121.9
+Mitsubishi Lancer Evo X FQ 400 - [2009],1998,121.9
+Mitsubishi Lancer GSR Ralliart Sportback SST - [2008],1998,121.9
+Nissan 200SX S14a 2.0T - [1996],1998,121.9
+Nissan Sunny GTi R - [1992],1998,121.9
+Peugeot 306 GTi 6 - [1996],1998,121.9
+Peugeot 306 2.0 Rallye - [1998],1998,121.9
+Peugeot 306 2.0 XSi - [1997],1998,121.9
+Renault Clio 2.0 16V 182 Cup - [2004],1998,121.9
+Renault Clio 2.0 16V 197bhp - [2006],1998,121.9
+Renault Clio 2.0 16V Renaultsport Trophy 182 - [2004],1998,121.9
+Renault Clio 2.0 16V 172 Cup - [2000],1998,121.9
+Renault Clio 2.0 16V Williams - [1993],1998,121.9
+Renault Megane 2.0 T Renaultsport Trophy 225 - [2002],1998,121.9
+Renault Megane Renaultsport 230 F1 Team R26R - [2007],1998,121.9
+Renault Megane Renaultsport 230 F1 Team R26 - [2007],1998,121.9
+Skoda Octavia 2.0 FSI vRS - [2005],1998,121.9
+Toyota Celica GT Four ST205 - [1994],1998,121.9
+Toyota MR2 GT Mk2 Rev 1 - [1990],1998,121.9
+Toyota MR2 Mk2 Turbo Rev 1 - [1990],1998,121.9
+Toyota MR2 Mk2 Turbo Rev 3 - [1993],1998,121.9
+Triumph Dolomite Sprint - [1973],1998,121.9
+Triumph TR7 2.0 8V - [1975],1998,121.9
+Vauxhall-Opel Astra Coupe Turbo - [2000],1998,121.9
+Vauxhall-Opel Astra 2.0 Turbo SRI - [2005],1998,121.9
+Vauxhall-Opel Calibra 2.0i 16v Turbo - [2002],1998,121.9
+Vauxhall-Opel VX220 2.0T - [2003],1998,121.9
+Westfield Sport 2000S - [2004],1998,121.9
+Ariel Atom Mugen - [2012],1998,121.9
+Toyota Celica GT Four ST185 - [1989],1998,121.9
+Toyota Celica GT Four ST165 - [1986],1998,121.9
+Renault Clio 2.0 RenaultSport III 200 Cup - [2009],1998,121.9
+Fisker Karma Hybrid - [2011],1998,121.9
+Nissan Skyline Hardtop 2000 Turbo GT-E - [1980],1998,121.9
+Renault Megane RenaultSport 2.0T 265 - [2012],1998,121.9
+Subaru BRZ 2L - [2012],1998,121.9
+Subaru Legacy B4 2.0 GT DIT - [2012],1998,121.9
+Nissan Silvia S15 Spec R - [1999],1998,121.9
+Honda Civic 2.0i VTEC Type R - [2011],1998,121.9
+Vauxhall-Opel Astra OPC 2.0 Turbo - [2012],1998,121.9
+Vauxhall-Opel Astra GTC 2.0 Turbo - [2005],1998,121.9
+Vauxhall-Opel Astra GSi 2.0 16v - [1997],1998,121.9
+Mitsubishi Lancer Evo GSR - [2012],1998,121.9
+Renault Megane RenaultSport 2.0T 265 Cup - [2012],1998,121.9
+Toyota GT 86 2.0L Coupe - [2011],1998,121.9
+Toyota 2000 GT 2.0L Coupe - [1968],1998,121.9
+Vauxhall-Opel Calibra 2.0 Turbo - [1992],1998,121.9
+Vauxhall-Opel Kadett 2.0 16V GSi - [1988],1998,121.9
+Peugeot 405 T16 2.0 Turbo - [1993],1998,121.9
+Subaru BRZ 2L 210ps - [2013],1998,121.9
+Subaru BRZ 2L 210ps Sportshift - [2013],1998,121.9
+Caterham Super 7 JPE - [1992],1998,121.9
+Chevrolet Cobalt SS 2.0 Turbo - [2008],1998,121.9
+Citroen Xsara 2.0 16V VTS - [1998],1997,121.8
+Mitsubishi Lancer Evo IX FQ 320 - [2005],1997,121.8
+Mitsubishi Lancer Evo IX FQ 360 - [2006],1997,121.8
+Mitsubishi Lancer Evo VI GSR - [2000],1997,121.8
+Mitsubishi Lancer Evo VI Tommi Makinen - [2000],1997,121.8
+Mitsubishi Lancer Evo VII GSR - [2002],1997,121.8
+Mitsubishi Lancer Evo VIII 260 - [2003],1997,121.8
+Mitsubishi Lancer Evo VIII GSR - [2003],1997,121.8
+Mitsubishi Lancer Evo VIII MR FQ 340 - [2003],1997,121.8
+Mitsubishi Lancer Evo VIII MR FQ 400 - [2004],1997,121.8
+Mitsubishi Lancer Evo VIII MR FQ 300 - [2003],1997,121.8
+Peugeot 206 2.0 GTi 180 - [1999],1997,121.8
+Peugeot 206 2.0 GTi - [1999],1997,121.8
+Peugeot RCZ 2.0 HDi 200 GT - [2009],1997,121.8
+Mitsubishi Colt Starion Turbo - [1985],1997,121.8
+Mitsubishi Lancer Evo V GSR - [1998],1997,121.8
+Mitsubishi Lancer Evo II - [1994],1997,121.8
+Mitsubishi Lancer Evo III - [1995],1997,121.8
+Mitsubishi Lancer Evo IV RS - [1996],1997,121.8
+Alfa-Romeo Disco Volante 1900 Touring Spider - [1952],1997,121.8
+Alfa-Romeo Disco Volante 1900 Touring Coupe - [1953],1997,121.8
+Peugeot 206 RC 2.0 16v - [2003],1997,121.8
+Mitsubishi Lancer 2000 Turbo 2nd Gen - [1981],1997,121.8
+Mitsubishi Lancer Evo I RS - [1992],1997,121.8
+Maserati Ghibli 2.0 Turbo Cup - [1995],1996,121.8
+Ford Capri 2000 GT - [1969],1996,121.8
+Alfa-Romeo 164 2.0 V6 Turbo - [1991],1996,121.8
+BMW 1 Series 123d 2d Coupe M-Sport - [2007],1995,121.7
+Fiat Coupe 2.0 16V Turbo - [1995],1995,121.7
+Fiat Strada Abarth 130 TC - [1984],1995,121.7
+Lancia Delta HF Integrale 16v - [1991],1995,121.7
+Renault Megane Renaultsport 2.0 dCi 175 - [2007],1995,121.7
+Ferrari 166 MM - [1948],1995,121.7
+Mini Cooper SD Paceman - [2012],1995,121.7
+Lancia Kappa 2.0 Turbo - [1994],1995,121.7
+Fiat Strada-Ritmo Abarth 125 TC - [1984],1995,121.7
+Fiat Strada-Ritmo Abarth 125 TC - [1981],1995,121.7
+Lancia Delta Integrale 8v - [1988],1994,121.6
+MG Maestro 2.0 Turbo - [1988],1994,121.6
+Rover 600 620 Ti - [1994],1994,121.6
+Rover 200 220 Coupe Turbo - [1992],1994,121.6
+Subaru Impreza P1 - Classic - [2000],1994,121.6
+Subaru Impreza WRX STI Type RA Spec C - Blobeye - [2003],1994,121.6
+Subaru Impreza 2.0 Turbo UK - Classic - [1998],1994,121.6
+Subaru Impreza WRX - Blobeye - [2003],1994,121.6
+Subaru Impreza WRX STi PPP - [2003],1994,121.6
+Subaru Impreza WRX - Classic (JDM) - [1992],1994,121.6
+Subaru Impreza WRX STI R205 Spec C - Hatch - [2010],1994,121.6
+Subaru Impreza WRX Type RA - Classic (JDM) - [1992],1994,121.6
+Subaru Impreza WRX - Classic (JDM) Wagon - [1993],1994,121.6
+Subaru Impreza WRX STI V1 - Classic (JDM) - [1994],1994,121.6
+Subaru Impreza WRX STI V1 - Classic (JDM) Wagon - [1994],1994,121.6
+Subaru Impreza WRX - Classic (JDM) - [1994],1994,121.6
+Subaru Impreza WRX Type RA - Classic (JDM) - [1994],1994,121.6
+Subaru Impreza WRX STI V2 - Classic (JDM) - [1995],1994,121.6
+Subaru Impreza WRX STI V2 - Classic (JDM) Wagon - [1995],1994,121.6
+Subaru Impreza WRX - Classic (JDM) - [1996],1994,121.6
+Subaru Impreza WRX Type RA - Classic (JDM) - [1996],1994,121.6
+Subaru Impreza WRX - Classic (JDM) - [1997],1994,121.6
+Subaru Impreza WRX - Classic (JDM) Wagon - [1996],1994,121.6
+Subaru Impreza WRX STI V3 - Classic (JDM) - [1996],1994,121.6
+Subaru Impreza WRX - Classic (JDM) Wagon - [1997],1994,121.6
+Subaru Impreza WRX STI V4 - Classic (JDM) - [1997],1994,121.6
+Subaru Impreza WRX STI V3 V-Limited - Classic (JDM) - [1997],1994,121.6
+Subaru Impreza WRX STI V3 V-Limited - (JDM) Wagon - [1997],1994,121.6
+Subaru Impreza WRX STI V3 Type R - JDM - Classic - [1997],1994,121.6
+Subaru Impreza WRX STI V5 V-Limited - Classic (JDM) - [1998],1994,121.6
+Subaru Impreza WRX STI V5 Type RA - JDM - Classic - [1998],1994,121.6
+Subaru Impreza WRX STI V5 Type R - JDM - Classic - [1998],1994,121.6
+Subaru Impreza WRX - Classic (JDM) - [1999],1994,121.6
+Subaru Impreza WRX STI V6 - Classic (JDM) - [1999],1994,121.6
+Subaru Impreza WRX STI V6 Type RA - JDM - Classic - [1999],1994,121.6
+Subaru Impreza WRX Wagon - Classic (JDM) - [1999],1994,121.6
+Subaru Impreza S201 STI - [2000],1994,121.6
+Ford Sierra RS 500 - [1987],1994,121.6
+Audi Coupe 2.0 GT - [1984],1994,121.6
+Triumph TR3 2.0L Convertible - [1955],1994,121.6
+Subaru Impreza WRX STI S206 - [2011],1994,121.6
+Chevrolet Vega Cosworth Twin Cam - [1975],1994,121.6
+Subaru Forester 2.0 XT Turbo - [2003],1994,121.6
+Subaru Legacy Turbo Estate - [1992],1994,121.6
+Subaru Legacy 2.0 Turbo - [1992],1994,121.6
+MG Maestro 2.0 EFi - [1984],1994,121.6
+Ford Escort RS Cosworth - [1992],1993,121.6
+Ford Sierra RS Cosworth - [1986],1993,121.6
+Ford Sierra Sapphire RS Cosworth - [1988],1993,121.6
+Ford Cortina MkIII 2000GT - [1970],1993,121.6
+Ford Escort MK1 RS2000 - [1973],1993,121.6
+Ford Sierra Sapphire RS Cosworth 4x4 - [1990],1993,121.6
+Ferrari 208 Turbo 2.0L V8 - [1986],1991,121.4
+Porsche 911 S - [1967],1991,121.4
+BMW 2000 CS - [1965],1991,121.4
+Mercedes A Class 45 AMG 2.0 Turbo - [2013],1991,121.4
+Mercedes CLA 45 AMG 2.0 Turbo - [2013],1991,121.4
+Ford Focus ST 170 - [2002],1989,121.3
+Ford Focus RS - [2002],1988,121.3
+Ferrari 206 Dino GT - [1968],1987,121.2
+Volvo 144 Grand Luxe 2.0 8v - [1966],1986,121.1
+Saab 900 2.0 Turbo 16v S - [1984],1985,121.1
+Saab 9000 2.0 Turbo - [1986],1985,121.1
+Saab 99 2.0L Turbo - [1980],1985,121.1
+Audi TT Roadster 2.0T FSI 200 - [2008],1984,121.0
+Audi TT S 2.0T 270 - [2008],1984,121.0
+Audi A3 2.0T FSI S-Line - [2005],1984,121.0
+Audi A4 2.0T FSI - [2004],1984,121.0
+Audi A4 2.0T FSI Quattro - [2004],1984,121.0
+Volkswagen(VW) Golf 2.0 FSI - [2003],1984,121.0
+Volkswagen(VW) Golf 2.0 GTi 16V - [1994],1984,121.0
+Volkswagen(VW) Golf 2.0T GTi 16V - [2009],1984,121.0
+Volkswagen(VW) Scirocco 2.0 TSI GT - [2008],1984,121.0
+KTM X-Bow 2.0 Turbo - [2007],1984,121.0
+KTM X-Bow R 2.0 Turbo - [2011],1984,121.0
+Volkswagen(VW) Golf GTi Edition 30 DSG - [2006],1984,121.0
+Volkswagen(VW) Scirocco R 2.0 Turbo - [2009],1984,121.0
+Volkswagen(VW) Scirocco 2.0 TSI DSG - [2010],1984,121.0
+Volkswagen(VW) Golf R 2.0 Turbo - [2012],1984,121.0
+Audi A3 S3 2.0T - [2008],1984,121.0
+Audi A3 S3 2.0TFSI Quattro - [2007],1984,121.0
+Seat Leon Cupra R 2.0 20v - [2009],1984,121.0
+Seat Leon Linea R 2.0 TSI FR DSG - [2008],1984,121.0
+Volkswagen(VW) Golf 2.0 R DSG - [2009],1984,121.0
+Volkswagen(VW) Beetle 2.0 TSi Cabriolet - [2012],1984,121.0
+Skoda Octavia RS 2.0 Turbo - [2011],1984,121.0
+Volkswagen(VW) Polo R WRC 2.0 Turbo - [2013],1984,121.0
+Volkswagen(VW) Golf GTI Performance DSG 2.0 Turbo - [2013],1984,121.0
+Volkswagen(VW) Golf GTi DSG 2.0 Turbo - [2013],1984,121.0
+Skoda Octavia RS TSI 2.0 Turbo - [2013],1984,121.0
+KTM X-Bow R 2.0 Turbo - [2013],1984,121.0
+KTM X-Bow GT 2.0 Turbo - [2013],1984,121.0
+Audi A3 S3 2.0 Turbo - [2013],1984,121.0
+Audi A3 S3 2.0 Turbo S-Tronic - [2013],1984,121.0
+Audi A3 S3 2.0 Turbo - [2012],1984,121.0
+Audi A3 S3 2.0 Turbo S-Tronic - [2012],1984,121.0
+Audi A3 S3 2.0 Turbo Sportback - [2012],1984,121.0
+Audi A3 S3 2.0 Turbo S-Tronic Sportback - [2012],1984,121.0
+Porsche 924 Carrera GTS (937) - [1981],1984,121.0
+Vauxhall-Opel Manta 2.0 GTE Coupe - [1982],1979,120.7
+Morgan 3 Wheeler 2.0l V-Twin - [2011],1976,120.5
+Vauxhall-Opel Viva GT 2.0L - [1968],1975,120.5
+Lotus Esprit 2.0 Turbo GT3 - [1996],1973,120.4
+Lotus Esprit S1 2.0 - [1975],1973,120.4
+Jensen GT 2.0 16v - [1976],1973,120.4
+Jensen Healey 2.0 16v - [1972],1973,120.4
+Frazer-Nash Sebring 2.0 Roadster - [1954],1971,120.2
+Frazer-Nash Targa Florio 2.0 Cabriolet - [1952],1971,120.2
+Alfa-Romeo 145 Cloverleaf - [1994],1970,120.2
+Alfa-Romeo 147 TS Selespeed - [2001],1970,120.2
+Alfa-Romeo 166 2.0 ts - [2000],1970,120.2
+Alfa-Romeo 146 ti - [1994],1970,120.2
+Aston-Martin Atom 2.0L - [1939],1970,120.2
+Audi TT 2.0TDI Quattro - [2006],1968,120.0
+Audi A3 2.0tdi Quattro S-Line - [2008],1968,120.0
+Seat Leon 2.0 16v TDI FR - [2006],1968,120.0
+Volkswagen(VW) Golf GT TDi 170 - [2006],1968,120.0
+Volkswagen(VW) Golf GTD DSG 2.0 Turbo Diesel - [2013],1968,120.0
+Seat Leon SC 2.0 TDI FR - [2013],1968,120.0
+Skoda Octavia RS TDI - [2013],1968,120.0
+Vauxhall-Opel Zafira Tourer CDTi BiTurbo - [2013],1956,119.3
+Fiat Bravo 1.9 Sport Multijet - [2007],1910,116.5
+Peugeot 205 GTi 1.9 8v - [1986],1905,116.2
+Peugeot 309 1.9 GTi 8V - [1986],1905,116.2
+Peugeot 405 2.0 Mi 16 - [1988],1905,116.2
+Peugeot 205 GTi 1.9 8v - [1992],1905,116.2
+Peugeot 309 1.9 GTi 16v - [1992],1905,116.2
+Ferrari 159 S 1.9L V12 - [1947],1903,116.1
+Vauxhall-Opel GT 1900 - [1968],1897,115.7
+Mercedes SL Class 190SL W121 - [1954],1897,115.7
+Vauxhall-Opel Manta GT/E 1.9 8v - [1974],1897,115.7
+Vauxhall-Opel Manta Rallye 1.9 8v - [1970],1897,115.7
+Skoda Fabia 1.9 vRS 130bhp - [2003],1896,115.7
+Volkswagen(VW) Golf GT TDi 150 - [2000],1896,115.7
+BMW 3 Series 318is 4d Saloon E46 - [1996],1895,115.6
+Alfa-Romeo 1900C 1.9L Coupe - [1952],1884,114.9
+Ford Escort Mk2 RS1800 - [1975],1845,112.5
+Mitsubishi FTO 1.8 - [1994],1834,111.9
+Proton Satria 1.8 GTi - [2000],1834,111.9
+Nissan 200SX S13 1.8T - [1988],1809,110.3
+Ford RS200 1.8T 16V - [1985],1804,110.0
+Fiat Punto 1.8 16V HGT Abarth - [1998],1800,109.8
+Lexus CT 200h 1.8L - [2012],1799,109.7
+Audi A4 1.8T Sport - [2004],1798,109.7
+Audi A4 1.8T Avant - [2008],1798,109.7
+Mazda MX5 1.8i - [2005],1798,109.7
+Toyota Yaris 1.8L TS - [2007],1798,109.7
+Seat Leon SC 1.8 FR Start-Stop DSG - [2013],1798,109.7
+Honda Integra 1.8 Type R DC2 - [1996],1797,109.6
+Honda Civic 1.8 VTi-S - [1997],1797,109.6
+Caterham 7 Superlight R300 - [2003],1796,109.5
+Caterham 7 Superlight R500 - [2000],1796,109.5
+Lotus 340 R - [2000],1796,109.5
+Lotus Elise S1 - [1996],1796,109.5
+Lotus Elise S2 1.8 111S - [2002],1796,109.5
+Lotus Elise 1.8 S2 Sport 190 - [2003],1796,109.5
+Lotus Exige 240 R - [2005],1796,109.5
+Lotus Exige S 1.8 Supercharged - [2006],1796,109.5
+Lotus Exige S2 1.8 - [2004],1796,109.5
+MG F 1.8i VVC - [1995],1796,109.5
+MG F 1.8i VVC 160ps Trophy - [2001],1796,109.5
+MG ZR 1.8i VVC 160 - [2001],1796,109.5
+Vauxhall-Opel Corsa 1.8 GSi - [2004],1796,109.5
+Vauxhall-Opel Corsa 1.8 Sport SRi - [2001],1796,109.5
+Lotus 2-Eleven 1.8 Supercharged - [2007],1796,109.5
+Ford Escort XR3i - [1992],1796,109.5
+Vauxhall-Opel Kadett 1.8 GTE - [1983],1796,109.5
+Peugeot 504 1.8 8v - [1968],1796,109.5
+Vauxhall-Opel Manta 1.8 GT - [1982],1796,109.5
+Lotus Elise SC 1.8 - [2007],1796,109.5
+Lotus Elise Sport 135 - [2002],1796,109.5
+Lotus Elise 111R - [2004],1796,109.5
+Caterham 7 Superlight R400 - [2003],1796,109.5
+Toyota Celica 1.8 VVTi T-Sport 190 - [2003],1794,109.4
+Toyota MR2 1.8 VVTi - [2000],1794,109.4
+Toyota Corolla TS Compressor 2.0L - [2005],1794,109.4
+Lotus Elise S - [2006],1794,109.4
+Audi TT 1.8T 180 - [1998],1781,108.6
+Audi TT 1.8T 225 - [1999],1781,108.6
+Audi A3 S3 1.8T Quattro - [2002],1781,108.6
+Audi A3 S3 1.8T Quattro - [1999],1781,108.6
+Seat Ibiza 1.8 Cupra R 20vt - [2001],1781,108.6
+Seat Ibiza 1.8 20vt FR - [2004],1781,108.6
+Seat Ibiza 1.8 20vt FR - [2007],1781,108.6
+Seat Leon 1.8 20vt Cupra - [2000],1781,108.6
+Seat Leon 1.8 20vt Cupra R 225 - [2003],1781,108.6
+Seat Leon 1.8 20vt Cupra R 210 - [2006],1781,108.6
+Skoda Octavia 1.8t vRS - [2001],1781,108.6
+Volkswagen(VW) Corrado G60 - [1988],1781,108.6
+Volkswagen(VW) Golf 1.8 16v GTi - [1988],1781,108.6
+Volkswagen(VW) Golf 1.8 8v GTi - [1982],1781,108.6
+Volkswagen(VW) Passat 1.8 20V Turbo - [1999],1781,108.6
+Volkswagen(VW) Polo 1.8T GTi - [2006],1781,108.6
+Audi TT S 1.8T - [1995],1781,108.6
+Volkswagen(VW) Golf G60 Supercharged - [1990],1781,108.6
+Seat Leon Sport FR 1.8 20VT 180 - [2002],1781,108.6
+Seat Ibiza Cupra 1.8 20v Turbo - [2007],1781,108.6
+Seat Ibiza Cupra 1.8 20VT - [2004],1781,108.6
+Volkswagen(VW) Jetta GTi 1.8 16v - [1988],1781,108.6
+Audi 80 GT 1.8 - [1975],1781,108.6
+Volvo P 1800S - [1967],1780,108.6
+Peugeot 205 T16 1.8 16v Turbo - [1984],1775,108.3
+Renault 19 1.8 16V - [1991],1763,107.5
+Fiat 124 Abarth Rallye - [1972],1756,107.1
+Fiat Barchetta 1.8 16V - [1995],1747,106.6
+Alfa-Romeo Giulietta 235 Cloverleaf - [2010],1742,106.3
+Alfa-Romeo 4C 1.8 Turbo - [2013],1742,106.3
+Alfa-Romeo 33 1.7 Boxer Cloverleaf - [1990],1712,104.4
+Ford Puma 1.7 16V - [1997],1679,102.4
+Ford Puma 1.7i 16V Ford Racing - [2000],1679,102.4
+Renault Clio Renaultsport 1.6 Turbo 200 EDC - [2013],1618,98.7
+Rover 200 216 GTi Coupe - [1993],1600,97.6
+Ford Cortina MkII GT - [1968],1599,97.5
+Ford Escort MK1 RS1600 - [1970],1599,97.5
+Mini Cooper S 1.6 - [2001],1598,97.5
+Mini Cooper S Convertible 1.6 - [2004],1598,97.5
+Mini Cooper S John Cooper Works - [2008],1598,97.5
+Mini Cooper S R56 - [2006],1598,97.5
+Mini Cooper S Works GP - [2006],1598,97.5
+Peugeot 207 CC GT - [2006],1598,97.5
+Vauxhall-Opel Corsa 1.6 VXR - [2007],1598,97.5
+Volkswagen(VW) Lupo 1.6 GTi - [2001],1598,97.5
+Vauxhall-Opel Nova 1.6i GSi - [1990],1598,97.5
+Vauxhall-Opel Nova 1.6i GTE - [1983],1598,97.5
+Renault Twingo 1.6 133 Renaultsport Cup - [2011],1598,97.5
+Peugeot RCZ 1.6 THP 200 GT - [2009],1598,97.5
+Vauxhall-Opel Corsa VXR OPC Nurburgring 1.6Turbo - [2011],1598,97.5
+Mazda 323 Turbo - [1986],1598,97.5
+Peugeot 208 1.6 THP - [2012],1598,97.5
+Citroen DS3 1.6 THP 150 - [2009],1598,97.5
+Citroen DS3 Racing 200 - [2010],1598,97.5
+Citroen DS5 1.6 THP 200 - [2011],1598,97.5
+Mini Cooper Paceman - [2012],1598,97.5
+Mini Cooper S Paceman - [2012],1598,97.5
+Peugeot 308 1.6 GTi - [2010],1598,97.5
+Peugeot 207 1.6 16v - [2006],1598,97.5
+Mini Cooper John Cooper Works - [2012],1598,97.5
+Mini Cooper John Cooper Works Clubman - [2012],1598,97.5
+Mini Cooper John Cooper Works Countrman - [2012],1598,97.5
+Mini Cooper John Cooper Works Roadster - [2012],1598,97.5
+Mini Cooper John Cooper Works Coupe - [2012],1598,97.5
+Mini Cooper Cooper S - [2011],1598,97.5
+Ford Fiesta XR2 - [1981],1598,97.5
+Vauxhall-Opel Corsa 1.6 GSi 16V - [1993],1598,97.5
+Vauxhall-Opel Corsa 1.6 VXR OPC - [2010],1598,97.5
+Peugeot 208 GTi 1.6 Turbo - [2013],1598,97.5
+Citroen DS4 200 1.6 Turbo - [2010],1598,97.5
+Dacia Sandero 1.6 16v - [2011],1598,97.5
+Lotus Elise Club Racer - [2011],1598,97.5
+Mazda MX5 1.6 - [1990],1597,97.4
+Ford Fiesta RS Turbo - [1990],1597,97.4
+Ford KA Street KA - [2002],1597,97.4
+Ford Escort XR3i MK4 - [1986],1597,97.4
+Ford Escort Mk4 RS Turbo - [1985],1597,97.4
+Ford Fiesta XR2i - [1989],1597,97.4
+Ford Fiesta XR2 - [1977],1597,97.4
+Ford Fiesta 1.6 Zetec S - [1999],1596,97.3
+Ford Fiesta 1.6 Zetec S - [2005],1596,97.3
+Ford Fiesta 1.6 Zetec S - [2008],1596,97.3
+Ford Fiesta ST 1.6 Turbo - [2012],1596,97.3
+Ford Fiesta ST 1.6 Turbo - [2013],1596,97.3
+Volvo V40 T4 1.6 Turbo - [2012],1596,97.3
+Honda Civic Type R EK9 - [1997],1595,97.3
+Ford Escort MK1 Mexico RS - [1970],1595,97.3
+Ford Cortina Mk4 1600 GL - [1976],1593,97.2
+KIA Pro Ceed GT 1.6 Turbo - [2013],1591,97.0
+Honda Civic CRX 1.6i VTEC - [1990],1590,97.0
+Caterham 7 Superlight - [1996],1588,96.9
+Lotus Elan SE - [1989],1588,96.9
+Volkswagen(VW) Golf GTi MK1 - [1976],1588,96.9
+Caterham Super 7 1.6 16v - [1995],1588,96.9
+Citroen C2 VTR - [2000],1587,96.8
+Citroen C2 1.6 VTS 3-5dr - [2004],1587,96.8
+Citroen Saxo 1.6i VTR - [1997],1587,96.8
+Citroen Saxo 1.6i VTR - [1999],1587,96.8
+Citroen Saxo 1.6i VTS - [1997],1587,96.8
+Citroen Saxo 1.6i VTS - [1999],1587,96.8
+Peugeot 106 16v GTi - [1996],1587,96.8
+Toyota MR2 Mk1 - [1985],1587,96.8
+Toyota Corolla GT Coupe AE86 - [1983],1587,96.8
+Suzuki Swift 1.6 VVT Sport - [2005],1586,96.7
+Porsche 356 B 1600S Super - [1959],1582,96.5
+Porsche 356 C 1.6 Coupe - [1963],1582,96.5
+Peugeot 205 GTi 1.6 8v - [1986],1580,96.4
+Peugeot 205 GTi 1.6 8v - [1984],1580,96.4
+Alfa-Romeo Giulia TZ - [1963],1570,95.8
+Alfa-Romeo Giulia GT 1600 Junior Z - [1972],1570,95.8
+Renault 18 1.6 Turbo - [1980],1565,95.5
+Renault Fuego 1.6 Turbo - [1980],1565,95.5
+Citroen DS3 1.6 HDi 110 - [2009],1560,95.1
+Ford Cortina MkI Lotus Type 28 - [1963],1558,95.0
+Ford Escort 1.6 Twin Cam - [1968],1558,95.0
+Radical SR3 1.5 16V - [2001],1500,91.5
+BMW i8 Hybrid - [2013],1499,91.4
+Fiat X1/9 1.5 8V - [1982],1498,91.4
+Mazda 2 1.5 Sport - [2007],1498,91.4
+Lotus Super Severn 1.5L - [1963],1498,91.4
+DeTomaso Vallelunga 1.5 8v - [1965],1498,91.4
+Ferrari 125 S 1.5L V12 - [1947],1496,91.2
+Alfa-Romeo Alfasud 1.5 Ti QV - [1983],1490,90.9
+Porsche 356 1.5l 2+2 - [1952],1488,90.8
+Nissan Cherry 1.5 Turbo - [1984],1488,90.8
+Mitsubishi Colt CZT 1.5 Turbo - [2005],1468,89.5
+Peugeot 403 1500 - [1955],1468,89.5
+Renault 5 GT Turbo - [1987],1397,85.2
+Renault 5 Turbo 2 - [1983],1397,85.2
+Renault 5 Gordini Turbo - [1984],1397,85.2
+Renault 5 Turbo Phase 1 - [1978],1397,85.2
+Renault 11 1.4 Turbo - [1986],1397,85.2
+Caterham Super 7 1.4 Supersport - [1995],1396,85.1
+Audi A1 1.4 TFSI - [2011],1390,84.8
+Seat Ibiza Cupra 1.4 Turbo - [2009],1390,84.8
+Skoda Fabia 1.4 vRS - [2010],1390,84.8
+Volkswagen(VW) Polo GTi 1.4 Turbo Supercharged - [2010],1390,84.8
+Seat Ibiza 1.4 FR Turbo Supercharged - [2012],1390,84.8
+Skoda Rapid 1.4 tsi Spaceback - [2013],1390,84.8
+Fiat Punto 1.4 GT - [1994],1372,83.7
+Alfa-Romeo Mito 1.4 155 T-Jet Veloce - [2008],1368,83.4
+Fiat 500 1.4 T-Jet Abarth Essessee - [2008],1368,83.4
+Fiat Grande Punto 1.4 T-Jet 155 Abarth - [2008],1368,83.4
+Alfa-Romeo Mito 170 Quadrifoglio Verde - [2011],1368,83.4
+Fiat Punto Evo Abarth 1.4 Turbo - [2011],1368,83.4
+Citroen AX GT 1.4 - [1987],1360,82.9
+Toyota Starlet-Glanza GT Turbo - [1989],1331,81.2
+Aston-Martin Cygnet 1.3L Launch Edition - [2011],1329,81.1
+Mazda RX7 Turbo - [1992],1308,79.8
+Mazda RX7 FD Turbo - [1993],1308,79.8
+Mazda RX8 1.3 - [2003],1308,79.8
+Mazda RX8 R3 231ps - [2008],1308,79.8
+Mazda RX7 Turbo - [1989],1308,79.8
+Triumph Spitfire Mk 3 - [1967],1296,79.0
+Alpine A110 1300 - [1968],1296,79.0
+Peugeot 106 Rallye - [1994],1294,78.9
+Citroen AX Sport - [1987],1294,78.9
+Peugeot 205 Rallye 1.3 8v - [1991],1294,78.9
+Austin-Healey Sprite MK IV AN8 - [1966],1275,77.8
+Volkswagen(VW) Polo G40 1.3 Supercharged - [1992],1272,77.6
+Volkswagen(VW) Polo GT G40 1.3 Supercharged - [1985],1272,77.6
+Talbot Samba Rallye 1.2 - [1984],1219,74.3
+Renault Captur 1.2 Turbo TCe 120 EDC - [2013],1197,73.0
+Alfa-Romeo Alfasud 1.2 Sprint Ti - [1974],1186,72.3
+Skoda 120 L 1200 - [1980],1174,71.6
+Vauxhall-Opel Viva Brabham 1.2 8v - [1967],1159,70.7
+Triumph Herald 1200 - [1961],1147,69.9
+Skoda UVMV 1100 GT - [1970],1138,69.4
+Skoda S110 R/T 426 7.0 V8 Hemi - [1974],1107,67.5
+Austin-Healey Sprite MKIII AN8 - [1964],1097,66.9
+Fiat 1100 1.1L - [1953],1089,66.4
+Skoda Felicia 1.1L Cabriolet - [1961],1089,66.4
+Skoda 105 S - [1977],1046,63.8
+Citroen C1 1.0 VTR 3dr - [2005],998,60.9
+Daihatsu Charade GTti - [1987],993,60.5
+Daihatsu Charade 1.0 Turbo - [1979],993,60.5
+Austin-Healey Sprite MK1 AN5 - [1958],948,57.8
+Austin-Healey Sprite MKII AN7 - [1961],948,57.8
+Fiat 500 L TwinAir Turbo - [2012],875,53.3
+Caterham 7 160/165 0.7L Turbo - [2013],658,40.1
+BMW i3 0.6l Hybrid - [2013],647,39.4
