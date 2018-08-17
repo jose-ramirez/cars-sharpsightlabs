@@ -1,6 +1,11 @@
+# This code comes from this pages:
+# https://www.sharpsightlabs.com/blog/data-analysis-example-r-supercars-part2/
+# https://www.sharpsightlabs.com/blog/data-analysis-example-r-supercars-part2/
+
 library(dplyr)
 library(ggplot2)
 
+# This does not work on windows. Why?
 #df.car_torque <- read.csv("./data/auto-snout_torque.txt")
 #df.car_0_60_times  <- read.csv("./data/auto-snout_0-60-times.txt")
 #df.car_engine_size <- read.csv("./data/auto-snout_engine-size.txt")
@@ -77,3 +82,50 @@ df.car_spec_data %>%
   group_by(make_nm) %>%
   summarise(make_count = length(make_nm)) %>%
   arrange(desc(make_count))
+
+# Themes for the charts:
+theme.car_chart <-
+  theme(legend.position = "none") +
+  theme(plot.title = element_text(size = 26, family = "Trebuchet MS", face = "bold", hjust = 0, color = "#666666")) +
+  theme(axis.title = element_text(size = 26, family = "Trebuchet MS", face = "bold", color = "#666666")) +
+  theme(axis.title.y = element_text(angle = 0))
+
+# Scatterplot theme
+theme.car_chart_SCATTER <- theme.car_chart +
+  theme(axis.title.x = element_text(hjust = 0, vjust = -.5))
+
+# Histogram theme
+theme.car_chart_HIST <- theme.car_chart +
+  theme(axis.title.x = element_text(hjust = 0, vjust = -.5))
+
+# Small multiples theme
+theme.car_chart_SMALLM <- theme.car_chart +
+  theme(panel.grid.minor = element_blank()) +
+  theme(strip.text.x = element_text(size = 16, family = "Trebuchet MS", face = "bold", hjust = 0, color = "#666666"))
+
+##############################
+# First graph: HP vs top speed
+ggplot(data = df.car_spec_data, aes(x=horsepower_bhp, y=top_speed_mph)) +
+  geom_point(alpha=.4, size=4, color="#880011")+
+  ggtitle("Horsepower vs. Top Speed") +
+  labs(x="Horsepower", y="Top Speed,\n mph") +
+  theme.car_chart_SCATTER
+
+#######################
+#Histogram of top speed
+ggplot(data = df.car_spec_data, aes(x=top_speed_mph)) +
+  geom_histogram(fill="#880011") +
+  ggtitle("Histogram of top speed") +
+  labs(x="Top Speed, mph", y="Count\nof Records") +
+  theme.car_chart_HIST
+
+# Now we know from the previous plots that there's a group of cars that
+# have a limit to their max speed; let's see where is that limit:
+df.car_spec_data %>%
+  filter(top_speed_mph > 149 & top_speed_mph < 159) %>%
+  ggplot(aes(x=as.factor(top_speed_mph))) +
+  geom_bar(fill="#880011") +
+  labs(x="Top speed, mph") +
+  theme.car_chart
+
+#it's at 155 mph then :)
