@@ -1,5 +1,5 @@
 # This code comes from this pages:
-# https://www.sharpsightlabs.com/blog/data-analysis-example-r-supercars-part2/
+# https://www.sharpsightlabs.com/blog/data-analysis-example-r-supercars-part1/
 # https://www.sharpsightlabs.com/blog/data-analysis-example-r-supercars-part2/
 
 library(dplyr)
@@ -129,3 +129,27 @@ df.car_spec_data %>%
   theme.car_chart
 
 #it's at 155 mph then :)
+
+# Histogram of top speed by decade:
+ggplot(data = df.car_spec_data, aes(x=top_speed_mph)) +
+  geom_histogram(fill = "#880011") +
+  ggtitle("Histogram of Top Speed\nby decade") +
+  labs(x="Top speed, mph", y="Count\nof records") +
+  facet_wrap(~decade) +
+  theme.car_chart_SMALLM
+
+df.car_spec_data$year <- as.character(df.car_spec_data$year)
+
+# Manufacturesrs at max speed = 155 mph
+df.car_spec_data %>%
+  filter(top_speed_mph == 155 & year >= 1990) %>%
+  group_by(make_nm) %>% summarize(count_speed_controlled=n()) %>%
+  arrange(desc(count_speed_controlled))
+
+# Horsepower vs speed
+ggplot(data = df.car_spec_data, aes(x=horsepower_bhp, y=top_speed_mph)) +
+  geom_point(alpha=0.6, color = "#880011") +
+  facet_wrap(~decade) +
+  ggtitle("Horsepower vs Top Speed\nby decade") +
+  labs(x="Horsepower, bhp", y="Top speed, mph") +
+  theme.car_chart_SMALLM
